@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NOS Studios">
+    <display-name lang="pt">NOS Studios</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20220602002200 +0100" stop="20220602020400 +0100" channel="NOS Studios">
+    <title lang="pt">Histórias Assustadoras Para Contar no Escuro</title>
+  </programme>
+  <programme start="20220602020400 +0100" stop="20220602033700 +0100" channel="NOS Studios">
+    <title lang="pt">A Vida por um Fio</title>
+  </programme>
+  <programme start="20220602033700 +0100" stop="20220602052500 +0100" channel="NOS Studios">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20220602052500 +0100" stop="20220602071500 +0100" channel="NOS Studios">
+    <title lang="pt">O Guarda-Costas e o Assassino</title>
+  </programme>
+  <programme start="20220602071500 +0100" stop="20220602090000 +0100" channel="NOS Studios">
+    <title lang="pt">Dinheiro</title>
+  </programme>
+  <programme start="20220602090000 +0100" stop="20220602103000 +0100" channel="NOS Studios">
+    <title lang="pt">Vickie e o Tesouro dos Deuses</title>
+  </programme>
+  <programme start="20220602103000 +0100" stop="20220602114500 +0100" channel="NOS Studios">
+    <title lang="pt">Barafunda na Selva (VP)</title>
+  </programme>
+  <programme start="20220602114500 +0100" stop="20220602134000 +0100" channel="NOS Studios">
+    <title lang="pt">Os Deuses do Egipto</title>
+  </programme>
+  <programme start="20220602134000 +0100" stop="20220602151000 +0100" channel="NOS Studios">
+    <title lang="pt">Dois Estranhos, Um Casamento</title>
+  </programme>
+  <programme start="20220602151000 +0100" stop="20220602164500 +0100" channel="NOS Studios">
+    <title lang="pt">Mas Que Família É Esta?!</title>
+  </programme>
+  <programme start="20220602164500 +0100" stop="20220602181000 +0100" channel="NOS Studios">
+    <title lang="pt">Amar-te à Meia-Noite</title>
+  </programme>
+  <programme start="20220602181000 +0100" stop="20220602195000 +0100" channel="NOS Studios">
+    <title lang="pt">Mean Dreams: Sonhos Perdidos</title>
+  </programme>
+  <programme start="20220602195000 +0100" stop="20220602211500 +0100" channel="NOS Studios">
+    <title lang="pt">Antes de Adormecer</title>
+  </programme>
+  <programme start="20220602211500 +0100" stop="20220602225000 +0100" channel="NOS Studios">
+    <title lang="pt">That</title>
+  </programme>
+  <programme start="20220602225000 +0100" stop="20220603001500 +0100" channel="NOS Studios">
+    <title lang="pt">Ele Vem à Noite</title>
+  </programme>
+  <programme start="20220603001500 +0100" stop="20220603014500 +0100" channel="NOS Studios">
+    <title lang="pt">Patologia</title>
+  </programme>
+  <programme start="20220603014500 +0100" stop="20220603032000 +0100" channel="NOS Studios">
+    <title lang="pt">Sibéria</title>
+  </programme>
+  <programme start="20220603032000 +0100" stop="20220603052500 +0100" channel="NOS Studios">
+    <title lang="pt">O Herói de Hacksaw Ridge</title>
+  </programme>
+  <programme start="20220603052500 +0100" stop="20220603065000 +0100" channel="NOS Studios">
+    <title lang="pt">Best Of The Best IV: Without Warning</title>
+  </programme>
+  <programme start="20220603065000 +0100" stop="20220603083500 +0100" channel="NOS Studios">
+    <title lang="pt">Tucker - O Homem E o Seu Sonho</title>
+  </programme>
+  <programme start="20220603083500 +0100" stop="20220603100500 +0100" channel="NOS Studios">
+    <title lang="pt">O Herói da Quinta (VP)</title>
+  </programme>
+  <programme start="20220603100500 +0100" stop="20220603111500 +0100" channel="NOS Studios">
+    <title lang="pt">Duas Caudas, uma Aventura Espacial (VP)</title>
+  </programme>
+  <programme start="20220603111500 +0100" stop="20220603125000 +0100" channel="NOS Studios">
+    <title lang="pt">Um Método Perigoso</title>
+  </programme>
+  <programme start="20220603125000 +0100" stop="20220603142000 +0100" channel="NOS Studios">
+    <title lang="pt">S.M.A.R.T. Chase: Perseguição Explosiva</title>
+  </programme>
+  <programme start="20220603142000 +0100" stop="20220603160000 +0100" channel="NOS Studios">
+    <title lang="pt">A Boa Mentira</title>
+  </programme>
+  <programme start="20220603160000 +0100" stop="20220603173500 +0100" channel="NOS Studios">
+    <title lang="pt">1911 - A Revolução</title>
+  </programme>
+  <programme start="20220603173500 +0100" stop="20220603192000 +0100" channel="NOS Studios">
+    <title lang="pt">Em Terra Estranha</title>
+  </programme>
+  <programme start="20220603192000 +0100" stop="20220603211500 +0100" channel="NOS Studios">
+    <title lang="pt">Pinóquio (2019)</title>
+  </programme>
+  <programme start="20220603211500 +0100" stop="20220603224500 +0100" channel="NOS Studios">
+    <title lang="pt">Match</title>
+  </programme>
+  <programme start="20220603224500 +0100" stop="20220604002500 +0100" channel="NOS Studios">
+    <title lang="pt">Death Wish: A Vingança</title>
+  </programme>
+</tv>
