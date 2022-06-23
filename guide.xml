@@ -4,319 +4,322 @@
     <display-name lang="pt">NOS Studios</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20220615000800 +0100" stop="20220615013400 +0100" channel="NOS Studios">
-    <title lang="pt">A Casa Dos Sonhos</title>
-  </programme>
-  <programme start="20220615013400 +0100" stop="20220615034500 +0100" channel="NOS Studios">
-    <title lang="pt">O Herói de Hacksaw Ridge</title>
-  </programme>
-  <programme start="20220615034500 +0100" stop="20220615052500 +0100" channel="NOS Studios">
-    <title lang="pt">Hard Candy</title>
-  </programme>
-  <programme start="20220615052500 +0100" stop="20220615064500 +0100" channel="NOS Studios">
-    <title lang="pt">Quatro Amigas E Um Casamento</title>
-  </programme>
-  <programme start="20220615064500 +0100" stop="20220615084500 +0100" channel="NOS Studios">
-    <title lang="pt">La La Land: Melodia de Amor</title>
-  </programme>
-  <programme start="20220615084500 +0100" stop="20220615095000 +0100" channel="NOS Studios">
-    <title lang="pt">Molly, A Monstrinha (VP)</title>
-  </programme>
-  <programme start="20220615095000 +0100" stop="20220615111600 +0100" channel="NOS Studios">
-    <title lang="pt">Gladiadores (VP)</title>
-  </programme>
-  <programme start="20220615111600 +0100" stop="20220615125000 +0100" channel="NOS Studios">
-    <title lang="pt">Um Homem no Limite</title>
-  </programme>
-  <programme start="20220615125000 +0100" stop="20220615141500 +0100" channel="NOS Studios">
-    <title lang="pt">O Golpe</title>
-  </programme>
-  <programme start="20220615141500 +0100" stop="20220615154200 +0100" channel="NOS Studios">
-    <title lang="pt">Velhos Jarretas</title>
-  </programme>
-  <programme start="20220615154200 +0100" stop="20220615170000 +0100" channel="NOS Studios">
-    <title lang="pt">Blood Father - O Protetor</title>
-  </programme>
-  <programme start="20220615170000 +0100" stop="20220615182200 +0100" channel="NOS Studios">
-    <title lang="pt">Identidade Falsa</title>
-  </programme>
-  <programme start="20220615182200 +0100" stop="20220615194600 +0100" channel="NOS Studios">
-    <title lang="pt">Antes de Adormecer</title>
-  </programme>
-  <programme start="20220615194600 +0100" stop="20220615211500 +0100" channel="NOS Studios">
-    <title lang="pt">Deviam ter Saído</title>
-  </programme>
-  <programme start="20220615211500 +0100" stop="20220615225500 +0100" channel="NOS Studios">
-    <title lang="pt">O Expatriado</title>
-  </programme>
-  <programme start="20220615225500 +0100" stop="20220616010900 +0100" channel="NOS Studios">
-    <title lang="pt">A Idade das Sombras</title>
-  </programme>
-  <programme start="20220616010900 +0100" stop="20220616023500 +0100" channel="NOS Studios">
-    <title lang="pt">Bairro 13</title>
-  </programme>
-  <programme start="20220616023500 +0100" stop="20220616041600 +0100" channel="NOS Studios">
-    <title lang="pt">Hard Candy</title>
-  </programme>
-  <programme start="20220616041600 +0100" stop="20220616060500 +0100" channel="NOS Studios">
-    <title lang="pt">O Substituto</title>
-  </programme>
-  <programme start="20220616060500 +0100" stop="20220616080500 +0100" channel="NOS Studios">
-    <title lang="pt">Need for Speed: O Filme</title>
-  </programme>
-  <programme start="20220616080500 +0100" stop="20220616094000 +0100" channel="NOS Studios">
-    <title lang="pt">O Herói da Quinta (VP)</title>
-  </programme>
-  <programme start="20220616094000 +0100" stop="20220616110500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Sete Anões e os Sapatos Mágicos (VP)</title>
-  </programme>
-  <programme start="20220616110500 +0100" stop="20220616130000 +0100" channel="NOS Studios">
-    <title lang="pt">Os Irmãos Sisters</title>
-  </programme>
-  <programme start="20220616130000 +0100" stop="20220616144500 +0100" channel="NOS Studios">
-    <title lang="pt">Dinheiro</title>
-  </programme>
-  <programme start="20220616144500 +0100" stop="20220616161500 +0100" channel="NOS Studios">
-    <title lang="pt">Ginger And Rosa</title>
-  </programme>
-  <programme start="20220616161500 +0100" stop="20220616175000 +0100" channel="NOS Studios">
-    <title lang="pt">Sangue e Vinho</title>
-  </programme>
-  <programme start="20220616175000 +0100" stop="20220616192500 +0100" channel="NOS Studios">
-    <title lang="pt">Renegados</title>
-  </programme>
-  <programme start="20220616192500 +0100" stop="20220616211500 +0100" channel="NOS Studios">
-    <title lang="pt">O Guarda-Costas e o Assassino</title>
-  </programme>
-  <programme start="20220616211500 +0100" stop="20220616225000 +0100" channel="NOS Studios">
-    <title lang="pt">O Veterano (2011)</title>
-  </programme>
-  <programme start="20220616225000 +0100" stop="20220617002000 +0100" channel="NOS Studios">
-    <title lang="pt">Patologia</title>
-  </programme>
-  <programme start="20220617002000 +0100" stop="20220617020000 +0100" channel="NOS Studios">
-    <title lang="pt">Longe da Terra Queimada</title>
-  </programme>
-  <programme start="20220617020000 +0100" stop="20220617033500 +0100" channel="NOS Studios">
-    <title lang="pt">The Hunter</title>
-  </programme>
-  <programme start="20220617033500 +0100" stop="20220617051500 +0100" channel="NOS Studios">
-    <title lang="pt">A Dupla Pele do Diabo</title>
-  </programme>
-  <programme start="20220617051500 +0100" stop="20220617065500 +0100" channel="NOS Studios">
-    <title lang="pt">O Homem Que Viu o Infinito</title>
-  </programme>
-  <programme start="20220617065500 +0100" stop="20220617083500 +0100" channel="NOS Studios">
-    <title lang="pt">O Portal do Guerreiro</title>
-  </programme>
-  <programme start="20220617083500 +0100" stop="20220617095000 +0100" channel="NOS Studios">
-    <title lang="pt">A Ovelha Choné - O Filme (VO)</title>
-  </programme>
-  <programme start="20220617095000 +0100" stop="20220617110500 +0100" channel="NOS Studios">
-    <title lang="pt">Uma Aventura No Jurássico (VP)</title>
-  </programme>
-  <programme start="20220617110500 +0100" stop="20220617123000 +0100" channel="NOS Studios">
-    <title lang="pt">Por Linhas Tortas</title>
-  </programme>
-  <programme start="20220617123000 +0100" stop="20220617135000 +0100" channel="NOS Studios">
-    <title lang="pt">Ibiza</title>
-  </programme>
-  <programme start="20220617135000 +0100" stop="20220617152500 +0100" channel="NOS Studios">
-    <title lang="pt">Mas Que Avó é Esta?!</title>
-  </programme>
-  <programme start="20220617152500 +0100" stop="20220617170500 +0100" channel="NOS Studios">
-    <title lang="pt">A Verdade e Só a Verdade</title>
-  </programme>
-  <programme start="20220617170500 +0100" stop="20220617193500 +0100" channel="NOS Studios">
-    <title lang="pt">Ali</title>
-  </programme>
-  <programme start="20220617193500 +0100" stop="20220617211500 +0100" channel="NOS Studios">
-    <title lang="pt">Plano de Engate</title>
-  </programme>
-  <programme start="20220617211500 +0100" stop="20220617225000 +0100" channel="NOS Studios">
-    <title lang="pt">American Pie Presents: Girls</title>
-  </programme>
-  <programme start="20220617225000 +0100" stop="20220618001000 +0100" channel="NOS Studios">
-    <title lang="pt">Dinheiro Sujo</title>
-  </programme>
-  <programme start="20220618001000 +0100" stop="20220618014000 +0100" channel="NOS Studios">
-    <title lang="pt">Ele Vem à Noite</title>
-  </programme>
-  <programme start="20220618014000 +0100" stop="20220618031000 +0100" channel="NOS Studios">
-    <title lang="pt">Condução Perigosa</title>
-  </programme>
-  <programme start="20220618031000 +0100" stop="20220618044500 +0100" channel="NOS Studios">
-    <title lang="pt">Tu És o Próximo</title>
-  </programme>
-  <programme start="20220618044500 +0100" stop="20220618061000 +0100" channel="NOS Studios">
-    <title lang="pt">A Casa Dos Sonhos</title>
-  </programme>
-  <programme start="20220618061000 +0100" stop="20220618080000 +0100" channel="NOS Studios">
-    <title lang="pt">A Profecia das Sombras</title>
-  </programme>
-  <programme start="20220618080000 +0100" stop="20220618093000 +0100" channel="NOS Studios">
-    <title lang="pt">Um Amor de Cão</title>
-  </programme>
-  <programme start="20220618093000 +0100" stop="20220618105000 +0100" channel="NOS Studios">
-    <title lang="pt">Astérix: O Domínio dos Deuses (VP)</title>
-  </programme>
-  <programme start="20220618105000 +0100" stop="20220618121500 +0100" channel="NOS Studios">
-    <title lang="pt">Colt 45</title>
-  </programme>
-  <programme start="20220618121500 +0100" stop="20220618143000 +0100" channel="NOS Studios">
-    <title lang="pt">A Idade das Sombras</title>
-  </programme>
-  <programme start="20220618143000 +0100" stop="20220618161500 +0100" channel="NOS Studios">
-    <title lang="pt">Tucker - O Homem E o Seu Sonho</title>
-  </programme>
-  <programme start="20220618161500 +0100" stop="20220618174500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Últimos Cinco Anos</title>
-  </programme>
-  <programme start="20220618174500 +0100" stop="20220618193000 +0100" channel="NOS Studios">
-    <title lang="pt">Depois do Amor</title>
-  </programme>
-  <programme start="20220618193000 +0100" stop="20220618211500 +0100" channel="NOS Studios">
-    <title lang="pt">Blue Valentine - Só Tu e Eu</title>
-  </programme>
-  <programme start="20220618211500 +0100" stop="20220618225500 +0100" channel="NOS Studios">
-    <title lang="pt">O Ninho</title>
-  </programme>
-  <programme start="20220618225500 +0100" stop="20220619002000 +0100" channel="NOS Studios">
-    <title lang="pt">Hora de Vingança</title>
-  </programme>
-  <programme start="20220619002000 +0100" stop="20220619015500 +0100" channel="NOS Studios">
-    <title lang="pt">Como Cães Selvagens</title>
-  </programme>
-  <programme start="20220619015500 +0100" stop="20220619031500 +0100" channel="NOS Studios">
-    <title lang="pt">Blood Father - O Protetor</title>
-  </programme>
-  <programme start="20220619031500 +0100" stop="20220619045500 +0100" channel="NOS Studios">
-    <title lang="pt">O Expatriado</title>
-  </programme>
-  <programme start="20220619045500 +0100" stop="20220619062500 +0100" channel="NOS Studios">
-    <title lang="pt">Ginger And Rosa</title>
-  </programme>
-  <programme start="20220619062500 +0100" stop="20220619081000 +0100" channel="NOS Studios">
-    <title lang="pt">A Verdade e Só a Verdade</title>
-  </programme>
-  <programme start="20220619081000 +0100" stop="20220619092500 +0100" channel="NOS Studios">
-    <title lang="pt">Barafunda na Selva (VP)</title>
-  </programme>
-  <programme start="20220619092500 +0100" stop="20220619104500 +0100" channel="NOS Studios">
-    <title lang="pt">Aya Aventuras Num Mundo Inesperado (VO)</title>
-  </programme>
-  <programme start="20220619104500 +0100" stop="20220619131000 +0100" channel="NOS Studios">
-    <title lang="pt">Ali</title>
-  </programme>
-  <programme start="20220619131000 +0100" stop="20220619143500 +0100" channel="NOS Studios">
-    <title lang="pt">A Máquina</title>
-  </programme>
-  <programme start="20220619143500 +0100" stop="20220619161000 +0100" channel="NOS Studios">
-    <title lang="pt">Em Nome do Amor</title>
-  </programme>
-  <programme start="20220619161000 +0100" stop="20220619175000 +0100" channel="NOS Studios">
-    <title lang="pt">O Mistério da Casa do Relógio</title>
-  </programme>
-  <programme start="20220619175000 +0100" stop="20220619192500 +0100" channel="NOS Studios">
-    <title lang="pt">Categoria 5</title>
-  </programme>
-  <programme start="20220619192500 +0100" stop="20220619211500 +0100" channel="NOS Studios">
-    <title lang="pt">Crisis</title>
-  </programme>
-  <programme start="20220619211500 +0100" stop="20220619225000 +0100" channel="NOS Studios">
-    <title lang="pt">Freaky - Este Corpo Fica-Me a Matar</title>
-  </programme>
-  <programme start="20220619225000 +0100" stop="20220620001500 +0100" channel="NOS Studios">
+  <programme start="20220623003600 +0100" stop="20220623020100 +0100" channel="NOS Studios">
     <title lang="pt">Confronto de Assassinos</title>
   </programme>
-  <programme start="20220620001500 +0100" stop="20220620015000 +0100" channel="NOS Studios">
-    <title lang="pt">Sangue e Vinho</title>
-  </programme>
-  <programme start="20220620015000 +0100" stop="20220620034000 +0100" channel="NOS Studios">
-    <title lang="pt">O Guarda-Costas e o Assassino</title>
-  </programme>
-  <programme start="20220620034000 +0100" stop="20220620051500 +0100" channel="NOS Studios">
-    <title lang="pt">O Veterano (2011)</title>
-  </programme>
-  <programme start="20220620051500 +0100" stop="20220620064500 +0100" channel="NOS Studios">
-    <title lang="pt">Patologia</title>
-  </programme>
-  <programme start="20220620064500 +0100" stop="20220620081000 +0100" channel="NOS Studios">
-    <title lang="pt">Antes de Adormecer</title>
-  </programme>
-  <programme start="20220620081000 +0100" stop="20220620093500 +0100" channel="NOS Studios">
-    <title lang="pt">Pudsey: Este Cão é um Herói</title>
-  </programme>
-  <programme start="20220620093500 +0100" stop="20220620105000 +0100" channel="NOS Studios">
-    <title lang="pt">Bling - Super-Heróis (VP)</title>
-  </programme>
-  <programme start="20220620105000 +0100" stop="20220620124000 +0100" channel="NOS Studios">
-    <title lang="pt">Tucker - O Homem E o Seu Sonho</title>
-  </programme>
-  <programme start="20220620124000 +0100" stop="20220620142500 +0100" channel="NOS Studios">
-    <title lang="pt">Step Up 5 - Todos Dançam</title>
-  </programme>
-  <programme start="20220620142500 +0100" stop="20220620160000 +0100" channel="NOS Studios">
-    <title lang="pt">That</title>
-  </programme>
-  <programme start="20220620160000 +0100" stop="20220620175500 +0100" channel="NOS Studios">
-    <title lang="pt">Viver à Margem</title>
-  </programme>
-  <programme start="20220620175500 +0100" stop="20220620193500 +0100" channel="NOS Studios">
+  <programme start="20220623020100 +0100" stop="20220623034100 +0100" channel="NOS Studios">
     <title lang="pt">A Estrada</title>
   </programme>
-  <programme start="20220620193500 +0100" stop="20220620211500 +0100" channel="NOS Studios">
-    <title lang="pt">Nomadland - Sobreviver na América</title>
-  </programme>
-  <programme start="20220620211500 +0100" stop="20220620232000 +0100" channel="NOS Studios">
-    <title lang="pt">A Minha Versão do Amor</title>
-  </programme>
-  <programme start="20220620232000 +0100" stop="20220621004000 +0100" channel="NOS Studios">
+  <programme start="20220623034100 +0100" stop="20220623050000 +0100" channel="NOS Studios">
     <title lang="pt">ETs In Da Bairro</title>
   </programme>
-  <programme start="20220621004000 +0100" stop="20220621021500 +0100" channel="NOS Studios">
-    <title lang="pt">Plano de Engate</title>
-  </programme>
-  <programme start="20220621021500 +0100" stop="20220621035000 +0100" channel="NOS Studios">
-    <title lang="pt">American Pie Presents: Girls</title>
-  </programme>
-  <programme start="20220621035000 +0100" stop="20220621053500 +0100" channel="NOS Studios">
-    <title lang="pt">Blue Valentine - Só Tu e Eu</title>
-  </programme>
-  <programme start="20220621053500 +0100" stop="20220621065500 +0100" channel="NOS Studios">
-    <title lang="pt">Identidade Falsa</title>
-  </programme>
-  <programme start="20220621065500 +0100" stop="20220621083000 +0100" channel="NOS Studios">
-    <title lang="pt">O Mistério da Casa do Relógio</title>
-  </programme>
-  <programme start="20220621083000 +0100" stop="20220621095500 +0100" channel="NOS Studios">
-    <title lang="pt">Gladiadores (VP)</title>
-  </programme>
-  <programme start="20220621095500 +0100" stop="20220621112500 +0100" channel="NOS Studios">
-    <title lang="pt">Vickie e o Tesouro dos Deuses</title>
-  </programme>
-  <programme start="20220621112500 +0100" stop="20220621131500 +0100" channel="NOS Studios">
-    <title lang="pt">Viver à Margem</title>
-  </programme>
-  <programme start="20220621131500 +0100" stop="20220621144500 +0100" channel="NOS Studios">
-    <title lang="pt">Gracie - Sonho de Vencer</title>
-  </programme>
-  <programme start="20220621144500 +0100" stop="20220621162000 +0100" channel="NOS Studios">
-    <title lang="pt">Dava Tudo Para Estar Cá</title>
-  </programme>
-  <programme start="20220621162000 +0100" stop="20220621174500 +0100" channel="NOS Studios">
-    <title lang="pt">Match</title>
-  </programme>
-  <programme start="20220621174500 +0100" stop="20220621193500 +0100" channel="NOS Studios">
-    <title lang="pt">Nove</title>
-  </programme>
-  <programme start="20220621193500 +0100" stop="20220621211500 +0100" channel="NOS Studios">
-    <title lang="pt">Pai Por Acaso</title>
-  </programme>
-  <programme start="20220621211500 +0100" stop="20220621225000 +0100" channel="NOS Studios">
+  <programme start="20220623050000 +0100" stop="20220623063700 +0100" channel="NOS Studios">
     <title lang="pt">Virar a Página</title>
   </programme>
-  <programme start="20220621225000 +0100" stop="20220622003500 +0100" channel="NOS Studios">
+  <programme start="20220623063700 +0100" stop="20220623080700 +0100" channel="NOS Studios">
+    <title lang="pt">Categoria 5</title>
+  </programme>
+  <programme start="20220623080700 +0100" stop="20220623092300 +0100" channel="NOS Studios">
+    <title lang="pt">Uma Aventura No Jurássico (VP)</title>
+  </programme>
+  <programme start="20220623092300 +0100" stop="20220623105200 +0100" channel="NOS Studios">
+    <title lang="pt">Max Atlantos 2 (VP)</title>
+  </programme>
+  <programme start="20220623105200 +0100" stop="20220623125800 +0100" channel="NOS Studios">
+    <title lang="pt">A Minha Versão do Amor</title>
+  </programme>
+  <programme start="20220623125800 +0100" stop="20220623145000 +0100" channel="NOS Studios">
+    <title lang="pt">A Música do Silêncio</title>
+  </programme>
+  <programme start="20220623145000 +0100" stop="20220623161900 +0100" channel="NOS Studios">
+    <title lang="pt">Segredos de Família</title>
+  </programme>
+  <programme start="20220623161900 +0100" stop="20220623174400 +0100" channel="NOS Studios">
+    <title lang="pt">O Príncipe</title>
+  </programme>
+  <programme start="20220623174400 +0100" stop="20220623190900 +0100" channel="NOS Studios">
+    <title lang="pt">Entre Rivais</title>
+  </programme>
+  <programme start="20220623190900 +0100" stop="20220623211500 +0100" channel="NOS Studios">
+    <title lang="pt">Para Raparigas de Cor</title>
+  </programme>
+  <programme start="20220623211500 +0100" stop="20220623224700 +0100" channel="NOS Studios">
+    <title lang="pt">Maggie Tem um Plano</title>
+  </programme>
+  <programme start="20220623224700 +0100" stop="20220624003300 +0100" channel="NOS Studios">
+    <title lang="pt">Crime e Pecado</title>
+  </programme>
+  <programme start="20220624003300 +0100" stop="20220624022000 +0100" channel="NOS Studios">
+    <title lang="pt">Step Up 5 - Todos Dançam</title>
+  </programme>
+  <programme start="20220624022000 +0100" stop="20220624034600 +0100" channel="NOS Studios">
+    <title lang="pt">Match</title>
+  </programme>
+  <programme start="20220624034600 +0100" stop="20220624053000 +0100" channel="NOS Studios">
     <title lang="pt">Uma Miúda com Potencial</title>
+  </programme>
+  <programme start="20220624053000 +0100" stop="20220624070500 +0100" channel="NOS Studios">
+    <title lang="pt">Dava Tudo Para Estar Cá</title>
+  </programme>
+  <programme start="20220624070500 +0100" stop="20220624084000 +0100" channel="NOS Studios">
+    <title lang="pt">Em Nome do Amor</title>
+  </programme>
+  <programme start="20220624084000 +0100" stop="20220624100000 +0100" channel="NOS Studios">
+    <title lang="pt">Astérix: O Domínio dos Deuses (VP)</title>
+  </programme>
+  <programme start="20220624100000 +0100" stop="20220624114500 +0100" channel="NOS Studios">
+    <title lang="pt">Max e os Dinossauros (VP)</title>
+  </programme>
+  <programme start="20220624114500 +0100" stop="20220624133500 +0100" channel="NOS Studios">
+    <title lang="pt">Nove</title>
+  </programme>
+  <programme start="20220624133500 +0100" stop="20220624151500 +0100" channel="NOS Studios">
+    <title lang="pt">O Projecto Lazarus</title>
+  </programme>
+  <programme start="20220624151500 +0100" stop="20220624164000 +0100" channel="NOS Studios">
+    <title lang="pt">O Golpe</title>
+  </programme>
+  <programme start="20220624164000 +0100" stop="20220624181000 +0100" channel="NOS Studios">
+    <title lang="pt">Collide - A Alta Velocidade</title>
+  </programme>
+  <programme start="20220624181000 +0100" stop="20220624193500 +0100" channel="NOS Studios">
+    <title lang="pt">O Golpe De Uma Vida</title>
+  </programme>
+  <programme start="20220624193500 +0100" stop="20220624211500 +0100" channel="NOS Studios">
+    <title lang="pt">Um Crime Muito Grave</title>
+  </programme>
+  <programme start="20220624211500 +0100" stop="20220624230000 +0100" channel="NOS Studios">
+    <title lang="pt">Um de Nós</title>
+  </programme>
+  <programme start="20220624230000 +0100" stop="20220625002500 +0100" channel="NOS Studios">
+    <title lang="pt">À Mão Armada</title>
+  </programme>
+  <programme start="20220625002500 +0100" stop="20220625020500 +0100" channel="NOS Studios">
+    <title lang="pt">Pai Por Acaso</title>
+  </programme>
+  <programme start="20220625020500 +0100" stop="20220625034500 +0100" channel="NOS Studios">
+    <title lang="pt">Reino de Assassinos</title>
+  </programme>
+  <programme start="20220625034500 +0100" stop="20220625053500 +0100" channel="NOS Studios">
+    <title lang="pt">Operação Antropoide</title>
+  </programme>
+  <programme start="20220625053500 +0100" stop="20220625070000 +0100" channel="NOS Studios">
+    <title lang="pt">A Pantera Cor-de-Rosa 2</title>
+  </programme>
+  <programme start="20220625070000 +0100" stop="20220625082500 +0100" channel="NOS Studios">
+    <title lang="pt">O Maravilhoso Mundo dos Brinquedos</title>
+  </programme>
+  <programme start="20220625082500 +0100" stop="20220625094500 +0100" channel="NOS Studios">
+    <title lang="pt">Aya Aventuras Num Mundo Inesperado (VO)</title>
+  </programme>
+  <programme start="20220625094500 +0100" stop="20220625110500 +0100" channel="NOS Studios">
+    <title lang="pt">Um Voo em Grande (VP)</title>
+  </programme>
+  <programme start="20220625110500 +0100" stop="20220625124000 +0100" channel="NOS Studios">
+    <title lang="pt">That</title>
+  </programme>
+  <programme start="20220625124000 +0100" stop="20220625141500 +0100" channel="NOS Studios">
+    <title lang="pt">Aventura No Centro Comercial</title>
+  </programme>
+  <programme start="20220625141500 +0100" stop="20220625161500 +0100" channel="NOS Studios">
+    <title lang="pt">O Fundamentalista Relutante</title>
+  </programme>
+  <programme start="20220625161500 +0100" stop="20220625174500 +0100" channel="NOS Studios">
+    <title lang="pt">Negócio das Arábias</title>
+  </programme>
+  <programme start="20220625174500 +0100" stop="20220625194500 +0100" channel="NOS Studios">
+    <title lang="pt">Green Book - Um Guia Para a Vida</title>
+  </programme>
+  <programme start="20220625194500 +0100" stop="20220625211500 +0100" channel="NOS Studios">
+    <title lang="pt">Impune</title>
+  </programme>
+  <programme start="20220625211500 +0100" stop="20220625225500 +0100" channel="NOS Studios">
+    <title lang="pt">Última Chamada</title>
+  </programme>
+  <programme start="20220625225500 +0100" stop="20220626003000 +0100" channel="NOS Studios">
+    <title lang="pt">O Carrasco (2017)</title>
+  </programme>
+  <programme start="20220626003000 +0100" stop="20220626015500 +0100" channel="NOS Studios">
+    <title lang="pt">Licença Para Viver</title>
+  </programme>
+  <programme start="20220626015500 +0100" stop="20220626032000 +0100" channel="NOS Studios">
+    <title lang="pt">Kill Switch - Tempo Limite</title>
+  </programme>
+  <programme start="20220626032000 +0100" stop="20220626052500 +0100" channel="NOS Studios">
+    <title lang="pt">Para Raparigas de Cor</title>
+  </programme>
+  <programme start="20220626052500 +0100" stop="20220626065500 +0100" channel="NOS Studios">
+    <title lang="pt">Gracie - Sonho de Vencer</title>
+  </programme>
+  <programme start="20220626065500 +0100" stop="20220626082000 +0100" channel="NOS Studios">
+    <title lang="pt">O Príncipe</title>
+  </programme>
+  <programme start="20220626082000 +0100" stop="20220626093500 +0100" channel="NOS Studios">
+    <title lang="pt">Bling - Super-Heróis (VP)</title>
+  </programme>
+  <programme start="20220626093500 +0100" stop="20220626110000 +0100" channel="NOS Studios">
+    <title lang="pt">Deep: Aventura no Fundo do Mar (VP)</title>
+  </programme>
+  <programme start="20220626110000 +0100" stop="20220626123000 +0100" channel="NOS Studios">
+    <title lang="pt">Enquanto Somos Jovens</title>
+  </programme>
+  <programme start="20220626123000 +0100" stop="20220626142000 +0100" channel="NOS Studios">
+    <title lang="pt">A Profecia das Sombras</title>
+  </programme>
+  <programme start="20220626142000 +0100" stop="20220626161000 +0100" channel="NOS Studios">
+    <title lang="pt">Transcendence: A Nova Inteligência</title>
+  </programme>
+  <programme start="20220626161000 +0100" stop="20220626174000 +0100" channel="NOS Studios">
+    <title lang="pt">O Segurança</title>
+  </programme>
+  <programme start="20220626174000 +0100" stop="20220626192500 +0100" channel="NOS Studios">
+    <title lang="pt">Salva-te Se Puderes</title>
+  </programme>
+  <programme start="20220626192500 +0100" stop="20220626211500 +0100" channel="NOS Studios">
+    <title lang="pt">6 Balas</title>
+  </programme>
+  <programme start="20220626211500 +0100" stop="20220626231000 +0100" channel="NOS Studios">
+    <title lang="pt">Um Homem Furioso</title>
+  </programme>
+  <programme start="20220626231000 +0100" stop="20220627003500 +0100" channel="NOS Studios">
+    <title lang="pt">Bala Certeira</title>
+  </programme>
+  <programme start="20220627003500 +0100" stop="20220627020500 +0100" channel="NOS Studios">
+    <title lang="pt">Segredos de Família</title>
+  </programme>
+  <programme start="20220627020500 +0100" stop="20220627035000 +0100" channel="NOS Studios">
+    <title lang="pt">Crime e Pecado</title>
+  </programme>
+  <programme start="20220627035000 +0100" stop="20220627054500 +0100" channel="NOS Studios">
+    <title lang="pt">A Música do Silêncio</title>
+  </programme>
+  <programme start="20220627054500 +0100" stop="20220627072000 +0100" channel="NOS Studios">
+    <title lang="pt">Maggie Tem um Plano</title>
+  </programme>
+  <programme start="20220627072000 +0100" stop="20220627085000 +0100" channel="NOS Studios">
+    <title lang="pt">O Golpe</title>
+  </programme>
+  <programme start="20220627085000 +0100" stop="20220627102000 +0100" channel="NOS Studios">
+    <title lang="pt">Vickie e o Tesouro dos Deuses</title>
+  </programme>
+  <programme start="20220627102000 +0100" stop="20220627115000 +0100" channel="NOS Studios">
+    <title lang="pt">Max: Magilika (VP)</title>
+  </programme>
+  <programme start="20220627115000 +0100" stop="20220627133000 +0100" channel="NOS Studios">
+    <title lang="pt">Um Crime Muito Grave</title>
+  </programme>
+  <programme start="20220627133000 +0100" stop="20220627150500 +0100" channel="NOS Studios">
+    <title lang="pt">O Verão da Minha Vida</title>
+  </programme>
+  <programme start="20220627150500 +0100" stop="20220627162000 +0100" channel="NOS Studios">
+    <title lang="pt">Arranja Um Emprego</title>
+  </programme>
+  <programme start="20220627162000 +0100" stop="20220627175500 +0100" channel="NOS Studios">
+    <title lang="pt">Um Homem no Limite</title>
+  </programme>
+  <programme start="20220627175500 +0100" stop="20220627192000 +0100" channel="NOS Studios">
+    <title lang="pt">Tempo Limite</title>
+  </programme>
+  <programme start="20220627192000 +0100" stop="20220627211500 +0100" channel="NOS Studios">
+    <title lang="pt">Sinais do Futuro</title>
+  </programme>
+  <programme start="20220627211500 +0100" stop="20220627225500 +0100" channel="NOS Studios">
+    <title lang="pt">Estado Crítico</title>
+  </programme>
+  <programme start="20220627225500 +0100" stop="20220628002500 +0100" channel="NOS Studios">
+    <title lang="pt">Conspiração Explosiva</title>
+  </programme>
+  <programme start="20220628002500 +0100" stop="20220628015500 +0100" channel="NOS Studios">
+    <title lang="pt">Negócio das Arábias</title>
+  </programme>
+  <programme start="20220628015500 +0100" stop="20220628032000 +0100" channel="NOS Studios">
+    <title lang="pt">À Mão Armada</title>
+  </programme>
+  <programme start="20220628032000 +0100" stop="20220628050500 +0100" channel="NOS Studios">
+    <title lang="pt">Um de Nós</title>
+  </programme>
+  <programme start="20220628050500 +0100" stop="20220628063500 +0100" channel="NOS Studios">
+    <title lang="pt">Collide - A Alta Velocidade</title>
+  </programme>
+  <programme start="20220628063500 +0100" stop="20220628081000 +0100" channel="NOS Studios">
+    <title lang="pt">O Projecto Lazarus</title>
+  </programme>
+  <programme start="20220628081000 +0100" stop="20220628094000 +0100" channel="NOS Studios">
+    <title lang="pt">Aventura No Centro Comercial</title>
+  </programme>
+  <programme start="20220628094000 +0100" stop="20220628110000 +0100" channel="NOS Studios">
+    <title lang="pt">Histórias de Embalar (VP)</title>
+  </programme>
+  <programme start="20220628110000 +0100" stop="20220628122500 +0100" channel="NOS Studios">
+    <title lang="pt">O Golpe De Uma Vida</title>
+  </programme>
+  <programme start="20220628122500 +0100" stop="20220628140500 +0100" channel="NOS Studios">
+    <title lang="pt">O Crime de Henry</title>
+  </programme>
+  <programme start="20220628140500 +0100" stop="20220628153500 +0100" channel="NOS Studios">
+    <title lang="pt">O Número</title>
+  </programme>
+  <programme start="20220628153500 +0100" stop="20220628170000 +0100" channel="NOS Studios">
+    <title lang="pt">Guerra Nas Estradas</title>
+  </programme>
+  <programme start="20220628170000 +0100" stop="20220628182500 +0100" channel="NOS Studios">
+    <title lang="pt">Violet e Daisy</title>
+  </programme>
+  <programme start="20220628182500 +0100" stop="20220628195000 +0100" channel="NOS Studios">
+    <title lang="pt">Knock Off - Embate</title>
+  </programme>
+  <programme start="20220628195000 +0100" stop="20220628211500 +0100" channel="NOS Studios">
+    <title lang="pt">Soldado de Elite</title>
+  </programme>
+  <programme start="20220628211500 +0100" stop="20220628224000 +0100" channel="NOS Studios">
+    <title lang="pt">Guerra Sem Quartel</title>
+  </programme>
+  <programme start="20220628224000 +0100" stop="20220629002500 +0100" channel="NOS Studios">
+    <title lang="pt">Plano de Fuga</title>
+  </programme>
+  <programme start="20220629002500 +0100" stop="20220629015500 +0100" channel="NOS Studios">
+    <title lang="pt">Impune</title>
+  </programme>
+  <programme start="20220629015500 +0100" stop="20220629033000 +0100" channel="NOS Studios">
+    <title lang="pt">O Carrasco (2017)</title>
+  </programme>
+  <programme start="20220629033000 +0100" stop="20220629053000 +0100" channel="NOS Studios">
+    <title lang="pt">O Fundamentalista Relutante</title>
+  </programme>
+  <programme start="20220629053000 +0100" stop="20220629071000 +0100" channel="NOS Studios">
+    <title lang="pt">Última Chamada</title>
+  </programme>
+  <programme start="20220629071000 +0100" stop="20220629083000 +0100" channel="NOS Studios">
+    <title lang="pt">Arranja Um Emprego</title>
+  </programme>
+  <programme start="20220629083000 +0100" stop="20220629100000 +0100" channel="NOS Studios">
+    <title lang="pt">Max Atlantos 2 (VP)</title>
+  </programme>
+  <programme start="20220629100000 +0100" stop="20220629113000 +0100" channel="NOS Studios">
+    <title lang="pt">Max: Atlantos (VP)</title>
+  </programme>
+  <programme start="20220629113000 +0100" stop="20220629130000 +0100" channel="NOS Studios">
+    <title lang="pt">O Segurança</title>
+  </programme>
+  <programme start="20220629130000 +0100" stop="20220629142500 +0100" channel="NOS Studios">
+    <title lang="pt">À Prova de Fogo</title>
+  </programme>
+  <programme start="20220629142500 +0100" stop="20220629160500 +0100" channel="NOS Studios">
+    <title lang="pt">Testemunha Indiscreta</title>
+  </programme>
+  <programme start="20220629160500 +0100" stop="20220629175500 +0100" channel="NOS Studios">
+    <title lang="pt">Porque é que me casei?</title>
+  </programme>
+  <programme start="20220629175500 +0100" stop="20220629193500 +0100" channel="NOS Studios">
+    <title lang="pt">Marcas de Guerra</title>
+  </programme>
+  <programme start="20220629193500 +0100" stop="20220629211500 +0100" channel="NOS Studios">
+    <title lang="pt">Sibéria</title>
+  </programme>
+  <programme start="20220629211500 +0100" stop="20220629230500 +0100" channel="NOS Studios">
+    <title lang="pt">À Prova de Morte</title>
+  </programme>
+  <programme start="20220629230500 +0100" stop="20220630004500 +0100" channel="NOS Studios">
+    <title lang="pt">Um Homem de Família</title>
   </programme>
 </tv>
