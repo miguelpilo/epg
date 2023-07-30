@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-NACIONAIS-" tvg-logo="https://tugaiptvbest.net/wp-content/uploads/2020/10/logo.png" group-title="Portugal",-NACIONAIS-
-http://worldprovider.net:8080/piloms@outlook.com/geiie4EhAn7e3Eq/6738
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 FHD" tvg-logo="http://worldprovider.net:8080/images/aaba22a5d0fb4b4197491e30c3e7d10e.png" group-title="Portugal",RTP 1 FHD
 http://worldprovider.net:8080/piloms@outlook.com/geiie4EhAn7e3Eq/6739
-#EXTINF:-1 tvg-name="Canal" tvg-logo="http://worldprovider.net:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal",http://worldprovider.net:8080/piloms@outlook.com/geiie4EhAn7e3Eq/6740
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="Canal" tvg-logo="http://worldprovider.net:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal", Canal http://worldprovider.net:8080/piloms@outlook.com/geiie4EhAn7e3Eq/6740
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 LOW" tvg-logo="http://worldprovider.net:8080/images/320895dfca2cccfc46d910f1145b7769.png" group-title="Portugal",RTP 1 LOW
 http://worldprovider.net:8080/piloms@outlook.com/geiie4EhAn7e3Eq/14132
 #EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 FHD" tvg-logo="http://worldprovider.net:8080/images/0f9cf647af77e0b76497a98fa7fedaa4.png" group-title="Portugal",RTP 2 FHD
