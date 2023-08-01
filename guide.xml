@@ -1,322 +1,1228 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NOS Studios">
-    <display-name lang="pt">NOS Studios</display-name>
-    <url>http://www.nos.pt</url>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp1-hd.png" />
+    <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20220701003000 +0100" stop="20220701020000 +0100" channel="NOS Studios">
-    <title lang="pt">A Maldição da Casa Winchester</title>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-hd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCine TOP">
+    <display-name lang="pt">TVCine TOP</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-top.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCINE Edition">
+    <display-name lang="pt">TVCINE Edition</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-edition.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCINE Emotion">
+    <display-name lang="pt">TVCINE Emotion</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-emotion.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVCine Action">
+    <display-name lang="pt">TVCine Action</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvcine-action.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20230801002700 +0100" stop="20230801010200 +0100" channel="RTP 1">
+    <title lang="pt">Sou Menino Para Ir</title>
+  </programme>
+  <programme start="20230801010200 +0100" stop="20230801020600 +0100" channel="RTP 1">
+    <title lang="pt">Masterchef Portugal - Melhores Momentos</title>
   </programme>
-  <programme start="20220701020000 +0100" stop="20220701033900 +0100" channel="NOS Studios">
-    <title lang="pt">Estado Crítico</title>
+  <programme start="20230801020600 +0100" stop="20230801024800 +0100" channel="RTP 1">
+    <title lang="pt">S.W.A.T: Força De Intervenção</title>
   </programme>
-  <programme start="20220701033900 +0100" stop="20220701051000 +0100" channel="NOS Studios">
-    <title lang="pt">Conspiração Explosiva</title>
+  <programme start="20230801024800 +0100" stop="20230801033600 +0100" channel="RTP 1">
+    <title lang="pt">Grandiosa Enciclopédia Do Ludopédio</title>
   </programme>
-  <programme start="20220701051000 +0100" stop="20220701070300 +0100" channel="NOS Studios">
-    <title lang="pt">Sinais do Futuro</title>
+  <programme start="20230801033600 +0100" stop="20230801054300 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20220701070300 +0100" stop="20220701083600 +0100" channel="NOS Studios">
-    <title lang="pt">O Verão da Minha Vida</title>
+  <programme start="20230801054300 +0100" stop="20230801060900 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20220701083600 +0100" stop="20220701095200 +0100" channel="NOS Studios">
-    <title lang="pt">Um Voo em Grande (VP)</title>
+  <programme start="20230801060900 +0100" stop="20230801063000 +0100" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
   </programme>
-  <programme start="20220701095200 +0100" stop="20220701111500 +0100" channel="NOS Studios">
-    <title lang="pt">Winx Club - A Aventura Mágica (VP)</title>
+  <programme start="20230801063000 +0100" stop="20230801075100 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20220701111500 +0100" stop="20220701131600 +0100" channel="NOS Studios">
-    <title lang="pt">Green Book - Um Guia Para a Vida</title>
+  <programme start="20230801075100 +0100" stop="20230801100000 +0100" channel="RTP 1">
+    <title lang="pt">Futebol Fem.: Portugal x EUA - Mundial 2023 (Direto)</title>
   </programme>
-  <programme start="20220701131600 +0100" stop="20220701143600 +0100" channel="NOS Studios">
-    <title lang="pt">47 Metros: Medo Profundo</title>
+  <programme start="20230801100000 +0100" stop="20230801125900 +0100" channel="RTP 1">
+    <title lang="pt">Praça da Alegria</title>
   </programme>
-  <programme start="20220701143600 +0100" stop="20220701161200 +0100" channel="NOS Studios">
-    <title lang="pt">O Expatriado</title>
+  <programme start="20230801125900 +0100" stop="20230801142400 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
   </programme>
-  <programme start="20220701161200 +0100" stop="20220701174700 +0100" channel="NOS Studios">
-    <title lang="pt">Best Of The Best II</title>
+  <programme start="20230801142400 +0100" stop="20230801150600 +0100" channel="RTP 1">
+    <title lang="pt">Topíssima</title>
   </programme>
-  <programme start="20220701174700 +0100" stop="20220701191600 +0100" channel="NOS Studios">
-    <title lang="pt">Match</title>
+  <programme start="20230801150600 +0100" stop="20230801173000 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20220701191600 +0100" stop="20220701211600 +0100" channel="NOS Studios">
-    <title lang="pt">La La Land: Melodia de Amor</title>
+  <programme start="20230801173000 +0100" stop="20230801190000 +0100" channel="RTP 1">
+    <title lang="pt">Portugal em Direto</title>
   </programme>
-  <programme start="20220701211600 +0100" stop="20220701232300 +0100" channel="NOS Studios">
-    <title lang="pt">Pequenas Mentiras Entre Amigos 2</title>
+  <programme start="20230801190000 +0100" stop="20230801203000 +0100" channel="RTP 1">
+    <title lang="pt">Jornada Mundial Da Juventude - Missa Abertura</title>
   </programme>
-  <programme start="20220701232300 +0100" stop="20220702005400 +0100" channel="NOS Studios">
-    <title lang="pt">O Veterano (2011)</title>
+  <programme start="20230801203000 +0100" stop="20230801213000 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
   </programme>
-  <programme start="20220702005400 +0100" stop="20220702023700 +0100" channel="NOS Studios">
-    <title lang="pt">Salva-te Se Puderes</title>
+  <programme start="20230801213000 +0100" stop="20230801221300 +0100" channel="RTP 1">
+    <title lang="pt">Ao Largo</title>
   </programme>
-  <programme start="20220702023700 +0100" stop="20220702040500 +0100" channel="NOS Studios">
-    <title lang="pt">Guerra Sem Quartel</title>
+  <programme start="20230801221300 +0100" stop="20230801232000 +0100" channel="RTP 1">
+    <title lang="pt">Porquinho Mealheiro</title>
   </programme>
-  <programme start="20220702040500 +0100" stop="20220702053000 +0100" channel="NOS Studios">
-    <title lang="pt">Soldado de Elite</title>
+  <programme start="20230801232000 +0100" stop="20230801233800 +0100" channel="RTP 1">
+    <title lang="pt">Campeonato Do Mundo de Futebol Feminino - Resumos</title>
   </programme>
-  <programme start="20220702053000 +0100" stop="20220702071500 +0100" channel="NOS Studios">
-    <title lang="pt">Plano de Fuga</title>
+  <programme start="20230801233800 +0100" stop="20230802003800 +0100" channel="RTP 1">
+    <title lang="pt">Planeta Verde</title>
   </programme>
-  <programme start="20220702071500 +0100" stop="20220702084000 +0100" channel="NOS Studios">
-    <title lang="pt">Guerra Nas Estradas</title>
+  <programme start="20230802003800 +0100" stop="20230802020800 +0100" channel="RTP 1">
+    <title lang="pt">Masterchef Portugal - Melhores Momentos</title>
   </programme>
-  <programme start="20220702084000 +0100" stop="20220702101000 +0100" channel="NOS Studios">
-    <title lang="pt">Deep: Aventura no Fundo do Mar (VP)</title>
+  <programme start="20230802020800 +0100" stop="20230802025100 +0100" channel="RTP 1">
+    <title lang="pt">S.W.A.T: Força De Intervenção</title>
   </programme>
-  <programme start="20220702101000 +0100" stop="20220702113000 +0100" channel="NOS Studios">
-    <title lang="pt">Titeuf, o Filme (VP)</title>
+  <programme start="20230802025100 +0100" stop="20230802031300 +0100" channel="RTP 1">
+    <title lang="pt">Europa Minha</title>
   </programme>
-  <programme start="20220702113000 +0100" stop="20220702132500 +0100" channel="NOS Studios">
-    <title lang="pt">Porque é que me casei?</title>
+  <programme start="20230802031300 +0100" stop="20230802052800 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20220702132500 +0100" stop="20220702150000 +0100" channel="NOS Studios">
-    <title lang="pt">Por uma Vida Melhor</title>
+  <programme start="20230802052800 +0100" stop="20230802060900 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20220702150000 +0100" stop="20220702165500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Deuses do Egipto</title>
+  <programme start="20230802060900 +0100" stop="20230802063000 +0100" channel="RTP 1">
+    <title lang="pt">Manchetes 3</title>
   </programme>
-  <programme start="20220702165500 +0100" stop="20220702182500 +0100" channel="NOS Studios">
-    <title lang="pt">Um Grande Salto</title>
+  <programme start="20230802063000 +0100" stop="20230802090000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20220702182500 +0100" stop="20220702195500 +0100" channel="NOS Studios">
-    <title lang="pt">Gone - 12 Horas Para Viver</title>
+  <programme start="20230802090000 +0100" stop="20230802125900 +0100" channel="RTP 1">
+    <title lang="pt">Jornada Mundial da Juventude - Chegada do Papa</title>
   </programme>
-  <programme start="20220702195500 +0100" stop="20220702211500 +0100" channel="NOS Studios">
-    <title lang="pt">Ibiza</title>
+  <programme start="20230802125900 +0100" stop="20230802141500 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
   </programme>
-  <programme start="20220702211500 +0100" stop="20220702230000 +0100" channel="NOS Studios">
-    <title lang="pt">As Férias Loucas de Barb e Star</title>
+  <programme start="20230802141500 +0100" stop="20230802151500 +0100" channel="RTP 1">
+    <title lang="pt">Topíssima</title>
   </programme>
-  <programme start="20220702230000 +0100" stop="20220703004000 +0100" channel="NOS Studios">
-    <title lang="pt">Death Wish: A Vingança</title>
+  <programme start="20230802151500 +0100" stop="20230802173000 +0100" channel="RTP 1">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20220703004000 +0100" stop="20220703022000 +0100" channel="NOS Studios">
-    <title lang="pt">Sibéria</title>
+  <programme start="20230802173000 +0100" stop="20230802190000 +0100" channel="RTP 1">
+    <title lang="pt">Jornada Mundial Da Juventude - Vésperas com Bispos</title>
   </programme>
-  <programme start="20220703022000 +0100" stop="20220703041500 +0100" channel="NOS Studios">
-    <title lang="pt">À Prova de Morte</title>
+  <programme start="20230802190000 +0100" stop="20230802195900 +0100" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
   </programme>
-  <programme start="20220703041500 +0100" stop="20220703060000 +0100" channel="NOS Studios">
-    <title lang="pt">Testemunha Indiscreta</title>
+  <programme start="20230802195900 +0100" stop="20230802211500 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
   </programme>
-  <programme start="20220703060000 +0100" stop="20220703075500 +0100" channel="NOS Studios">
-    <title lang="pt">Porque é que me casei?</title>
+  <programme start="20230802211500 +0100" stop="20230802220000 +0100" channel="RTP 1">
+    <title lang="pt">Ao Largo</title>
   </programme>
-  <programme start="20220703075500 +0100" stop="20220703092500 +0100" channel="NOS Studios">
-    <title lang="pt">Um Natal Sem Fim</title>
+  <programme start="20230802220000 +0100" stop="20230802230000 +0100" channel="RTP 1">
+    <title lang="pt">Porquinho Mealheiro</title>
   </programme>
-  <programme start="20220703092500 +0100" stop="20220703104500 +0100" channel="NOS Studios">
-    <title lang="pt">O Meu Amigo é Ninja (VP)</title>
+  <programme start="20230802230000 +0100" stop="20230802231500 +0100" channel="RTP 1">
+    <title lang="pt">Campeonato Do Mundo de Futebol Feminino - Resumos</title>
   </programme>
-  <programme start="20220703104500 +0100" stop="20220703124500 +0100" channel="NOS Studios">
-    <title lang="pt">La La Land: Melodia de Amor</title>
+  <programme start="20230802231500 +0100" stop="20230803001500 +0100" channel="RTP 1">
+    <title lang="pt">Planeta Verde</title>
   </programme>
-  <programme start="20220703124500 +0100" stop="20220703142000 +0100" channel="NOS Studios">
-    <title lang="pt">Mas Que Família É Esta?!</title>
+  <programme start="20230801004800 +0100" stop="20230801011200 +0100" channel="RTP 2">
+    <title lang="pt">Esec-TV</title>
   </programme>
-  <programme start="20220703142000 +0100" stop="20220703161000 +0100" channel="NOS Studios">
-    <title lang="pt">O Pátio Das Cantigas (2015)</title>
+  <programme start="20230801011200 +0100" stop="20230801011900 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
   </programme>
-  <programme start="20220703161000 +0100" stop="20220703175000 +0100" channel="NOS Studios">
-    <title lang="pt">A Boa Mentira</title>
+  <programme start="20230801011900 +0100" stop="20230801022300 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
   </programme>
-  <programme start="20220703175000 +0100" stop="20220703192000 +0100" channel="NOS Studios">
-    <title lang="pt">Por Aqui Tudo Bem</title>
+  <programme start="20230801022300 +0100" stop="20230801043400 +0100" channel="RTP 2">
+    <title lang="pt">Ciclismo: Volta A França 2023</title>
   </programme>
-  <programme start="20220703192000 +0100" stop="20220703211500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Irmãos Sisters</title>
+  <programme start="20230801043400 +0100" stop="20230801052100 +0100" channel="RTP 2">
+    <title lang="pt">Espaços Incríveis de George Clarke</title>
   </programme>
-  <programme start="20220703211500 +0100" stop="20220703224000 +0100" channel="NOS Studios">
-    <title lang="pt">Spiral - O Novo Capítulo de Saw</title>
+  <programme start="20230801052100 +0100" stop="20230801053600 +0100" channel="RTP 2">
+    <title lang="pt">Volta ao Mundo</title>
   </programme>
-  <programme start="20220703224000 +0100" stop="20220704001500 +0100" channel="NOS Studios">
-    <title lang="pt">Freaky - Este Corpo Fica-Me a Matar</title>
+  <programme start="20230801053600 +0100" stop="20230801060100 +0100" channel="RTP 2">
+    <title lang="pt">Destino: Portugal</title>
   </programme>
-  <programme start="20220704001500 +0100" stop="20220704014500 +0100" channel="NOS Studios">
-    <title lang="pt">Artemis: Hotel de Bandidos</title>
+  <programme start="20230801060100 +0100" stop="20230801063200 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
   </programme>
-  <programme start="20220704014500 +0100" stop="20220704033000 +0100" channel="NOS Studios">
-    <title lang="pt">Planeta Terror</title>
+  <programme start="20230801063200 +0100" stop="20230801070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
   </programme>
-  <programme start="20220704033000 +0100" stop="20220704050000 +0100" channel="NOS Studios">
-    <title lang="pt">O Veterano (2011)</title>
+  <programme start="20230801070000 +0100" stop="20230801070700 +0100" channel="RTP 2">
+    <title lang="pt">Afazeres Do Mês</title>
   </programme>
-  <programme start="20220704050000 +0100" stop="20220704063000 +0100" channel="NOS Studios">
-    <title lang="pt">Exército de Um Homem Só</title>
+  <programme start="20230801070700 +0100" stop="20230801070800 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
   </programme>
-  <programme start="20220704063000 +0100" stop="20220704082500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Deuses do Egipto</title>
+  <programme start="20230801070800 +0100" stop="20230801070900 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
   </programme>
-  <programme start="20220704082500 +0100" stop="20220704095000 +0100" channel="NOS Studios">
-    <title lang="pt">Winx Club - A Aventura Mágica (VP)</title>
+  <programme start="20230801070900 +0100" stop="20230801072300 +0100" channel="RTP 2">
+    <title lang="pt">Robocar Poli</title>
   </programme>
-  <programme start="20220704095000 +0100" stop="20220704111500 +0100" channel="NOS Studios">
-    <title lang="pt">Rudolfo, o Gatinho Preto (VP)</title>
+  <programme start="20230801072300 +0100" stop="20230801073800 +0100" channel="RTP 2">
+    <title lang="pt">Robocar Poli</title>
   </programme>
-  <programme start="20220704111500 +0100" stop="20220704132500 +0100" channel="NOS Studios">
-    <title lang="pt">Pequenas Mentiras Entre Amigos 2</title>
+  <programme start="20230801073800 +0100" stop="20230801074900 +0100" channel="RTP 2">
+    <title lang="pt">Cadetes</title>
   </programme>
-  <programme start="20220704132500 +0100" stop="20220704145000 +0100" channel="NOS Studios">
-    <title lang="pt">A Máquina</title>
+  <programme start="20230801074900 +0100" stop="20230801075400 +0100" channel="RTP 2">
+    <title lang="pt">Numberblocks</title>
   </programme>
-  <programme start="20220704145000 +0100" stop="20220704164000 +0100" channel="NOS Studios">
-    <title lang="pt">O Guarda-Costas e o Assassino</title>
+  <programme start="20230801075400 +0100" stop="20230801080500 +0100" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
   </programme>
-  <programme start="20220704164000 +0100" stop="20220704181500 +0100" channel="NOS Studios">
-    <title lang="pt">Sangue e Vinho</title>
+  <programme start="20230801080500 +0100" stop="20230801081300 +0100" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
   </programme>
-  <programme start="20220704181500 +0100" stop="20220704195000 +0100" channel="NOS Studios">
-    <title lang="pt">Best Of The Best I</title>
+  <programme start="20230801081300 +0100" stop="20230801082500 +0100" channel="RTP 2">
+    <title lang="pt">Kid Lucky</title>
   </programme>
-  <programme start="20220704195000 +0100" stop="20220704211500 +0100" channel="NOS Studios">
-    <title lang="pt">Identidade Falsa</title>
+  <programme start="20230801082500 +0100" stop="20230801083600 +0100" channel="RTP 2">
+    <title lang="pt">Ziggy and the Zootram</title>
   </programme>
-  <programme start="20220704211500 +0100" stop="20220704231000 +0100" channel="NOS Studios">
-    <title lang="pt">O Suspeito da Rua Arlington</title>
+  <programme start="20230801083600 +0100" stop="20230801084800 +0100" channel="RTP 2">
+    <title lang="pt">Gigantosaurus</title>
   </programme>
-  <programme start="20220704231000 +0100" stop="20220705004500 +0100" channel="NOS Studios">
-    <title lang="pt">Killing Salazar</title>
+  <programme start="20230801084800 +0100" stop="20230801085800 +0100" channel="RTP 2">
+    <title lang="pt">ExperimenArte</title>
   </programme>
-  <programme start="20220705004500 +0100" stop="20220705021500 +0100" channel="NOS Studios">
-    <title lang="pt">Match</title>
+  <programme start="20230801085800 +0100" stop="20230801091000 +0100" channel="RTP 2">
+    <title lang="pt">Garfield</title>
   </programme>
-  <programme start="20220705021500 +0100" stop="20220705034500 +0100" channel="NOS Studios">
-    <title lang="pt">Best Of The Best II</title>
+  <programme start="20230801091000 +0100" stop="20230801092100 +0100" channel="RTP 2">
+    <title lang="pt">Porto Papel</title>
   </programme>
-  <programme start="20220705034500 +0100" stop="20220705052000 +0100" channel="NOS Studios">
-    <title lang="pt">O Expatriado</title>
+  <programme start="20230801092100 +0100" stop="20230801092800 +0100" channel="RTP 2">
+    <title lang="pt">A Ovelha Choné</title>
   </programme>
-  <programme start="20220705052000 +0100" stop="20220705065500 +0100" channel="NOS Studios">
-    <title lang="pt">Por uma Vida Melhor</title>
+  <programme start="20230801092800 +0100" stop="20230801094000 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
   </programme>
-  <programme start="20220705065500 +0100" stop="20220705084000 +0100" channel="NOS Studios">
-    <title lang="pt">As Férias Loucas de Barb e Star</title>
+  <programme start="20230801094000 +0100" stop="20230801095100 +0100" channel="RTP 2">
+    <title lang="pt">Nefertine No Nilo</title>
   </programme>
-  <programme start="20220705084000 +0100" stop="20220705100000 +0100" channel="NOS Studios">
-    <title lang="pt">O Meu Amigo é Ninja (VP)</title>
+  <programme start="20230801095100 +0100" stop="20230801095800 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
   </programme>
-  <programme start="20220705100000 +0100" stop="20220705113000 +0100" channel="NOS Studios">
-    <title lang="pt">Troll e o Reino de Ervod (VP)</title>
+  <programme start="20230801095800 +0100" stop="20230801100600 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
   </programme>
-  <programme start="20220705113000 +0100" stop="20220705132500 +0100" channel="NOS Studios">
-    <title lang="pt">Os Irmãos Sisters</title>
+  <programme start="20230801100600 +0100" stop="20230801101800 +0100" channel="RTP 2">
+    <title lang="pt">Pirata &amp; Capitão</title>
   </programme>
-  <programme start="20220705132500 +0100" stop="20220705145500 +0100" channel="NOS Studios">
-    <title lang="pt">Um Amor de Cão</title>
+  <programme start="20230801101800 +0100" stop="20230801102100 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
   </programme>
-  <programme start="20220705145500 +0100" stop="20220705162000 +0100" channel="NOS Studios">
-    <title lang="pt">The Hunter</title>
+  <programme start="20230801102100 +0100" stop="20230801102900 +0100" channel="RTP 2">
+    <title lang="pt">16 Hudson</title>
   </programme>
-  <programme start="20220705162000 +0100" stop="20220705181000 +0100" channel="NOS Studios">
-    <title lang="pt">A Profecia das Sombras</title>
+  <programme start="20230801102900 +0100" stop="20230801103400 +0100" channel="RTP 2">
+    <title lang="pt">Mia Go</title>
   </programme>
-  <programme start="20220705181000 +0100" stop="20220705194500 +0100" channel="NOS Studios">
-    <title lang="pt">Mercenary: Absolution</title>
+  <programme start="20230801103400 +0100" stop="20230801104000 +0100" channel="RTP 2">
+    <title lang="pt">Mia Go</title>
   </programme>
-  <programme start="20220705194500 +0100" stop="20220705211500 +0100" channel="NOS Studios">
-    <title lang="pt">Operação Eye In The Sky</title>
+  <programme start="20230801104000 +0100" stop="20230801104700 +0100" channel="RTP 2">
+    <title lang="pt">Coelhos Corajosos</title>
   </programme>
-  <programme start="20220705211500 +0100" stop="20220705231500 +0100" channel="NOS Studios">
-    <title lang="pt">Uma Casa na Bruma</title>
+  <programme start="20230801104700 +0100" stop="20230801105500 +0100" channel="RTP 2">
+    <title lang="pt">Coelhos Corajosos</title>
   </programme>
-  <programme start="20220705231500 +0100" stop="20220706004500 +0100" channel="NOS Studios">
-    <title lang="pt">Vigarista</title>
+  <programme start="20230801105500 +0100" stop="20230801110000 +0100" channel="RTP 2">
+    <title lang="pt">Dimitri</title>
   </programme>
-  <programme start="20220706004500 +0100" stop="20220706022500 +0100" channel="NOS Studios">
-    <title lang="pt">Death Wish: A Vingança</title>
+  <programme start="20230801110000 +0100" stop="20230801110500 +0100" channel="RTP 2">
+    <title lang="pt">Dimitri</title>
   </programme>
-  <programme start="20220706022500 +0100" stop="20220706035000 +0100" channel="NOS Studios">
-    <title lang="pt">Gone - 12 Horas Para Viver</title>
+  <programme start="20230801110500 +0100" stop="20230801111000 +0100" channel="RTP 2">
+    <title lang="pt">DuArte: Uma Peça De Arte</title>
   </programme>
-  <programme start="20220706035000 +0100" stop="20220706052000 +0100" channel="NOS Studios">
-    <title lang="pt">Um Grande Salto</title>
+  <programme start="20230801111000 +0100" stop="20230801112200 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
   </programme>
-  <programme start="20220706052000 +0100" stop="20220706070000 +0100" channel="NOS Studios">
-    <title lang="pt">A Boa Mentira</title>
+  <programme start="20230801112200 +0100" stop="20230801113500 +0100" channel="RTP 2">
+    <title lang="pt">Rocky Kwaternário</title>
   </programme>
-  <programme start="20220706070000 +0100" stop="20220706082000 +0100" channel="NOS Studios">
-    <title lang="pt">Ibiza</title>
+  <programme start="20230801113500 +0100" stop="20230801115700 +0100" channel="RTP 2">
+    <title lang="pt">Droners</title>
   </programme>
-  <programme start="20220706082000 +0100" stop="20220706094000 +0100" channel="NOS Studios">
-    <title lang="pt">Titeuf, o Filme (VP)</title>
+  <programme start="20230801115700 +0100" stop="20230801121900 +0100" channel="RTP 2">
+    <title lang="pt">Nas Profundezas</title>
   </programme>
-  <programme start="20220706094000 +0100" stop="20220706110500 +0100" channel="NOS Studios">
-    <title lang="pt">O Maravilhoso Mundo dos Brinquedos</title>
+  <programme start="20230801121900 +0100" stop="20230801124100 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
   </programme>
-  <programme start="20220706110500 +0100" stop="20220706122500 +0100" channel="NOS Studios">
-    <title lang="pt">47 Metros: Medo Profundo</title>
+  <programme start="20230801124100 +0100" stop="20230801130400 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
   </programme>
-  <programme start="20220706122500 +0100" stop="20220706145000 +0100" channel="NOS Studios">
-    <title lang="pt">Ali</title>
+  <programme start="20230801130400 +0100" stop="20230801133100 +0100" channel="RTP 2">
+    <title lang="pt">Casas com História</title>
   </programme>
-  <programme start="20220706145000 +0100" stop="20220706162000 +0100" channel="NOS Studios">
-    <title lang="pt">A Vida por um Fio</title>
+  <programme start="20230801133100 +0100" stop="20230801135400 +0100" channel="RTP 2">
+    <title lang="pt">Mythos</title>
   </programme>
-  <programme start="20220706162000 +0100" stop="20220706174500 +0100" channel="NOS Studios">
-    <title lang="pt">Best Of The Best IV: Without Warning</title>
+  <programme start="20230801135400 +0100" stop="20230801140000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
   </programme>
-  <programme start="20220706174500 +0100" stop="20220706195000 +0100" channel="NOS Studios">
-    <title lang="pt">A Minha Versão do Amor</title>
+  <programme start="20230801140000 +0100" stop="20230801150200 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
   </programme>
-  <programme start="20220706195000 +0100" stop="20220706211500 +0100" channel="NOS Studios">
-    <title lang="pt">Ginger And Rosa</title>
+  <programme start="20230801150200 +0100" stop="20230801153500 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
   </programme>
-  <programme start="20220706211500 +0100" stop="20220706224500 +0100" channel="NOS Studios">
-    <title lang="pt">A Secretária Perfeita</title>
+  <programme start="20230801153500 +0100" stop="20230801160900 +0100" channel="RTP 2">
+    <title lang="pt">História A História África</title>
   </programme>
-  <programme start="20220706224500 +0100" stop="20220707005500 +0100" channel="NOS Studios">
-    <title lang="pt">O Herói de Hacksaw Ridge</title>
+  <programme start="20230801160900 +0100" stop="20230801170300 +0100" channel="RTP 2">
+    <title lang="pt">África Vista de Cima</title>
   </programme>
-  <programme start="20220707005500 +0100" stop="20220707022000 +0100" channel="NOS Studios">
-    <title lang="pt">Spiral - O Novo Capítulo de Saw</title>
+  <programme start="20230801170300 +0100" stop="20230801170400 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
   </programme>
-  <programme start="20220707022000 +0100" stop="20220707041000 +0100" channel="NOS Studios">
-    <title lang="pt">O Pátio Das Cantigas (2015)</title>
+  <programme start="20230801170400 +0100" stop="20230801171500 +0100" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
   </programme>
-  <programme start="20220707041000 +0100" stop="20220707054500 +0100" channel="NOS Studios">
-    <title lang="pt">Mas Que Família É Esta?!</title>
+  <programme start="20230801171500 +0100" stop="20230801172200 +0100" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
   </programme>
-  <programme start="20220707054500 +0100" stop="20220707071500 +0100" channel="NOS Studios">
-    <title lang="pt">Por Aqui Tudo Bem</title>
+  <programme start="20230801172200 +0100" stop="20230801173600 +0100" channel="RTP 2">
+    <title lang="pt">Kid Lucky</title>
   </programme>
-  <programme start="20220707071500 +0100" stop="20220707085000 +0100" channel="NOS Studios">
-    <title lang="pt">Freaky - Este Corpo Fica-Me a Matar</title>
+  <programme start="20230801173600 +0100" stop="20230801174700 +0100" channel="RTP 2">
+    <title lang="pt">Ziggy and the Zootram</title>
   </programme>
-  <programme start="20220707085000 +0100" stop="20220707101000 +0100" channel="NOS Studios">
-    <title lang="pt">Rudolfo, o Gatinho Preto (VP)</title>
+  <programme start="20230801174700 +0100" stop="20230801175800 +0100" channel="RTP 2">
+    <title lang="pt">Gigantosaurus</title>
   </programme>
-  <programme start="20220707101000 +0100" stop="20220707112500 +0100" channel="NOS Studios">
-    <title lang="pt">Barafunda na Selva (VP)</title>
+  <programme start="20230801175800 +0100" stop="20230801180500 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
   </programme>
-  <programme start="20220707112500 +0100" stop="20220707124500 +0100" channel="NOS Studios">
-    <title lang="pt">Identidade Falsa</title>
+  <programme start="20230801180500 +0100" stop="20230801181700 +0100" channel="RTP 2">
+    <title lang="pt">Rocky Kwaternário</title>
   </programme>
-  <programme start="20220707124500 +0100" stop="20220707141000 +0100" channel="NOS Studios">
-    <title lang="pt">A Máquina</title>
+  <programme start="20230801181700 +0100" stop="20230801182900 +0100" channel="RTP 2">
+    <title lang="pt">Nefertine No Nilo</title>
   </programme>
-  <programme start="20220707141000 +0100" stop="20220707154500 +0100" channel="NOS Studios">
-    <title lang="pt">Em Nome do Amor</title>
+  <programme start="20230801182900 +0100" stop="20230801184100 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
   </programme>
-  <programme start="20220707154500 +0100" stop="20220707171000 +0100" channel="NOS Studios">
-    <title lang="pt">Hora de Vingança</title>
+  <programme start="20230801184100 +0100" stop="20230801185300 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
   </programme>
-  <programme start="20220707171000 +0100" stop="20220707183500 +0100" channel="NOS Studios">
-    <title lang="pt">Best Of The Best III: No Turning Back</title>
+  <programme start="20230801185300 +0100" stop="20230801190600 +0100" channel="RTP 2">
+    <title lang="pt">Garfield</title>
   </programme>
-  <programme start="20220707183500 +0100" stop="20220707195500 +0100" channel="NOS Studios">
-    <title lang="pt">Colt 45</title>
+  <programme start="20230801190600 +0100" stop="20230801192800 +0100" channel="RTP 2">
+    <title lang="pt">Droners</title>
   </programme>
-  <programme start="20220707195500 +0100" stop="20220707211500 +0100" channel="NOS Studios">
-    <title lang="pt">Ataque ao Terror</title>
+  <programme start="20230801192800 +0100" stop="20230801193900 +0100" channel="RTP 2">
+    <title lang="pt">Porto Papel</title>
   </programme>
-  <programme start="20220707211500 +0100" stop="20220707225000 +0100" channel="NOS Studios">
-    <title lang="pt">A Céu Aberto</title>
+  <programme start="20230801193900 +0100" stop="20230801200100 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
   </programme>
-  <programme start="20220707225000 +0100" stop="20220708004000 +0100" channel="NOS Studios">
-    <title lang="pt">À Prova de Morte</title>
+  <programme start="20230801200100 +0100" stop="20230801202300 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20230801202300 +0100" stop="20230801202500 +0100" channel="RTP 2">
+    <title lang="pt">Crias</title>
+  </programme>
+  <programme start="20230801202500 +0100" stop="20230801203000 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20230801203000 +0100" stop="20230801203400 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230801203400 +0100" stop="20230801213000 +0100" channel="RTP 2">
+    <title lang="pt">Aurora</title>
+  </programme>
+  <programme start="20230801213000 +0100" stop="20230801220100 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20230801220100 +0100" stop="20230801224600 +0100" channel="RTP 2">
+    <title lang="pt">Mr. Selfridge</title>
+  </programme>
+  <programme start="20230801224600 +0100" stop="20230801225300 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230801225300 +0100" stop="20230801232000 +0100" channel="RTP 2">
+    <title lang="pt">Cassandra</title>
+  </programme>
+  <programme start="20230801232000 +0100" stop="20230802001300 +0100" channel="RTP 2">
+    <title lang="pt">A Ascensão Dos Nazis</title>
+  </programme>
+  <programme start="20230802001300 +0100" stop="20230802011400 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20230802011400 +0100" stop="20230802011900 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230802011900 +0100" stop="20230802014900 +0100" channel="RTP 2">
+    <title lang="pt">Eurodeputados</title>
+  </programme>
+  <programme start="20230802014900 +0100" stop="20230802021700 +0100" channel="RTP 2">
+    <title lang="pt">E2 - Escola Superior De Comunicação Social</title>
+  </programme>
+  <programme start="20230802021700 +0100" stop="20230802022300 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230802022300 +0100" stop="20230802043500 +0100" channel="RTP 2">
+    <title lang="pt">Ciclismo: Volta A França 2023</title>
+  </programme>
+  <programme start="20230802043500 +0100" stop="20230802052200 +0100" channel="RTP 2">
+    <title lang="pt">Espaços Incríveis de George Clarke</title>
+  </programme>
+  <programme start="20230802052200 +0100" stop="20230802053300 +0100" channel="RTP 2">
+    <title lang="pt">Volta ao Mundo</title>
+  </programme>
+  <programme start="20230802053300 +0100" stop="20230802060000 +0100" channel="RTP 2">
+    <title lang="pt">Destino: Portugal</title>
+  </programme>
+  <programme start="20230802060000 +0100" stop="20230802063200 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
+  </programme>
+  <programme start="20230802063200 +0100" stop="20230802070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
+  </programme>
+  <programme start="20230802070000 +0100" stop="20230802070600 +0100" channel="RTP 2">
+    <title lang="pt">Afazeres Do Mês</title>
+  </programme>
+  <programme start="20230802070600 +0100" stop="20230802070700 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
+  </programme>
+  <programme start="20230802070700 +0100" stop="20230802070800 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20230802070800 +0100" stop="20230802072000 +0100" channel="RTP 2">
+    <title lang="pt">Robocar Poli</title>
+  </programme>
+  <programme start="20230802072000 +0100" stop="20230802073000 +0100" channel="RTP 2">
+    <title lang="pt">Robocar Poli</title>
+  </programme>
+  <programme start="20230802073000 +0100" stop="20230802073500 +0100" channel="RTP 2">
+    <title lang="pt">Cadetes</title>
+  </programme>
+  <programme start="20230802073500 +0100" stop="20230802074000 +0100" channel="RTP 2">
+    <title lang="pt">Numberblocks</title>
+  </programme>
+  <programme start="20230802074000 +0100" stop="20230802075000 +0100" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20230802075000 +0100" stop="20230802080000 +0100" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20230802080000 +0100" stop="20230802081000 +0100" channel="RTP 2">
+    <title lang="pt">Kid Lucky</title>
+  </programme>
+  <programme start="20230802081000 +0100" stop="20230802082000 +0100" channel="RTP 2">
+    <title lang="pt">Ziggy and the Zootram</title>
+  </programme>
+  <programme start="20230802082000 +0100" stop="20230802083000 +0100" channel="RTP 2">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20230802083000 +0100" stop="20230802084000 +0100" channel="RTP 2">
+    <title lang="pt">ExperimenArte</title>
+  </programme>
+  <programme start="20230802084000 +0100" stop="20230802085500 +0100" channel="RTP 2">
+    <title lang="pt">Garfield</title>
+  </programme>
+  <programme start="20230802085500 +0100" stop="20230802090500 +0100" channel="RTP 2">
+    <title lang="pt">Porto Papel</title>
+  </programme>
+  <programme start="20230802090500 +0100" stop="20230802091000 +0100" channel="RTP 2">
+    <title lang="pt">A Ovelha Choné</title>
+  </programme>
+  <programme start="20230802091000 +0100" stop="20230802092000 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20230802092000 +0100" stop="20230802093000 +0100" channel="RTP 2">
+    <title lang="pt">Nefertine No Nilo</title>
+  </programme>
+  <programme start="20230802093000 +0100" stop="20230802094000 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20230802094000 +0100" stop="20230802094500 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20230802094500 +0100" stop="20230802095500 +0100" channel="RTP 2">
+    <title lang="pt">Pirata &amp; Capitão</title>
+  </programme>
+  <programme start="20230802095500 +0100" stop="20230802100500 +0100" channel="RTP 2">
+    <title lang="pt">Pirata &amp; Capitão</title>
+  </programme>
+  <programme start="20230802100500 +0100" stop="20230802101000 +0100" channel="RTP 2">
+    <title lang="pt">DuArte: Uma Peça De Arte</title>
+  </programme>
+  <programme start="20230802101000 +0100" stop="20230802102000 +0100" channel="RTP 2">
+    <title lang="pt">16 Hudson</title>
+  </programme>
+  <programme start="20230802102000 +0100" stop="20230802102500 +0100" channel="RTP 2">
+    <title lang="pt">16 Hudson</title>
+  </programme>
+  <programme start="20230802102500 +0100" stop="20230802103000 +0100" channel="RTP 2">
+    <title lang="pt">Mia Go</title>
+  </programme>
+  <programme start="20230802103000 +0100" stop="20230802103500 +0100" channel="RTP 2">
+    <title lang="pt">Mia Go</title>
+  </programme>
+  <programme start="20230802103500 +0100" stop="20230802104500 +0100" channel="RTP 2">
+    <title lang="pt">Coelhos Corajosos</title>
+  </programme>
+  <programme start="20230802104500 +0100" stop="20230802105000 +0100" channel="RTP 2">
+    <title lang="pt">Coelhos Corajosos</title>
+  </programme>
+  <programme start="20230802105000 +0100" stop="20230802105500 +0100" channel="RTP 2">
+    <title lang="pt">Dimitri</title>
+  </programme>
+  <programme start="20230802105500 +0100" stop="20230802110000 +0100" channel="RTP 2">
+    <title lang="pt">Dimitri</title>
+  </programme>
+  <programme start="20230802110000 +0100" stop="20230802110500 +0100" channel="RTP 2">
+    <title lang="pt">DuArte: Uma Peça De Arte</title>
+  </programme>
+  <programme start="20230802110500 +0100" stop="20230802111500 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+  </programme>
+  <programme start="20230802111500 +0100" stop="20230802112500 +0100" channel="RTP 2">
+    <title lang="pt">Rocky Kwaternário</title>
+  </programme>
+  <programme start="20230802112500 +0100" stop="20230802114500 +0100" channel="RTP 2">
+    <title lang="pt">Droners</title>
+  </programme>
+  <programme start="20230802114500 +0100" stop="20230802121000 +0100" channel="RTP 2">
+    <title lang="pt">Nas Profundezas</title>
+  </programme>
+  <programme start="20230802121000 +0100" stop="20230802123500 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20230802123500 +0100" stop="20230802130000 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20230802130000 +0100" stop="20230802133000 +0100" channel="RTP 2">
+    <title lang="pt">Casas com História</title>
+  </programme>
+  <programme start="20230802133000 +0100" stop="20230802135500 +0100" channel="RTP 2">
+    <title lang="pt">Mythos</title>
+  </programme>
+  <programme start="20230802135500 +0100" stop="20230802140000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230802140000 +0100" stop="20230802150000 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20230802150000 +0100" stop="20230802153000 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
+  </programme>
+  <programme start="20230802153000 +0100" stop="20230802160000 +0100" channel="RTP 2">
+    <title lang="pt">História A História África</title>
+  </programme>
+  <programme start="20230802160000 +0100" stop="20230802170000 +0100" channel="RTP 2">
+    <title lang="pt">África Vista de Cima</title>
+  </programme>
+  <programme start="20230802170000 +0100" stop="20230802170100 +0100" channel="RTP 2">
+    <title lang="pt">Zig Zag</title>
+  </programme>
+  <programme start="20230802170100 +0100" stop="20230802171100 +0100" channel="RTP 2">
+    <title lang="pt">Octonautas</title>
+  </programme>
+  <programme start="20230802171100 +0100" stop="20230802172000 +0100" channel="RTP 2">
+    <title lang="pt">Rato Renato</title>
+  </programme>
+  <programme start="20230802172000 +0100" stop="20230802173000 +0100" channel="RTP 2">
+    <title lang="pt">Kid Lucky</title>
+  </programme>
+  <programme start="20230802173000 +0100" stop="20230802174500 +0100" channel="RTP 2">
+    <title lang="pt">Ziggy and the Zootram</title>
+  </programme>
+  <programme start="20230802174500 +0100" stop="20230802175500 +0100" channel="RTP 2">
+    <title lang="pt">Gigantosaurus</title>
+  </programme>
+  <programme start="20230802175500 +0100" stop="20230802180000 +0100" channel="RTP 2">
+    <title lang="pt">Grizzy e os Lemingues</title>
+  </programme>
+  <programme start="20230802180000 +0100" stop="20230802181500 +0100" channel="RTP 2">
+    <title lang="pt">Rocky Kwaternário</title>
+  </programme>
+  <programme start="20230802181500 +0100" stop="20230802182500 +0100" channel="RTP 2">
+    <title lang="pt">Nefertine No Nilo</title>
+  </programme>
+  <programme start="20230802182500 +0100" stop="20230802183500 +0100" channel="RTP 2">
+    <title lang="pt">Robin dos Bosques - Travessuras em Sherwood</title>
+  </programme>
+  <programme start="20230802183500 +0100" stop="20230802184500 +0100" channel="RTP 2">
+    <title lang="pt">Atchoo</title>
+  </programme>
+  <programme start="20230802184500 +0100" stop="20230802185000 +0100" channel="RTP 2">
+    <title lang="pt">A Ovelha Choné</title>
+  </programme>
+  <programme start="20230802185000 +0100" stop="20230802190000 +0100" channel="RTP 2">
+    <title lang="pt">Garfield</title>
+  </programme>
+  <programme start="20230802190000 +0100" stop="20230802191500 +0100" channel="RTP 2">
+    <title lang="pt">Droners</title>
+  </programme>
+  <programme start="20230802191500 +0100" stop="20230802193500 +0100" channel="RTP 2">
+    <title lang="pt">Nas Profundezas</title>
+  </programme>
+  <programme start="20230802193500 +0100" stop="20230802194000 +0100" channel="RTP 2">
+    <title lang="pt">Porto Papel</title>
+  </programme>
+  <programme start="20230802194000 +0100" stop="20230802200000 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20230802200000 +0100" stop="20230802202000 +0100" channel="RTP 2">
+    <title lang="pt">Team Dronix</title>
+  </programme>
+  <programme start="20230802202000 +0100" stop="20230802202500 +0100" channel="RTP 2">
+    <title lang="pt">Crias</title>
+  </programme>
+  <programme start="20230802202500 +0100" stop="20230802203000 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
+  </programme>
+  <programme start="20230802203000 +0100" stop="20230802203500 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230802203500 +0100" stop="20230802213000 +0100" channel="RTP 2">
+    <title lang="pt">Aurora</title>
+  </programme>
+  <programme start="20230802213000 +0100" stop="20230802220000 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20230802220000 +0100" stop="20230802225000 +0100" channel="RTP 2">
+    <title lang="pt">Mr. Selfridge</title>
+  </programme>
+  <programme start="20230802225000 +0100" stop="20230802225500 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20230802225500 +0100" stop="20230802235000 +0100" channel="RTP 2">
+    <title lang="pt">Heróis Lendários</title>
+  </programme>
+  <programme start="20230802235000 +0100" stop="20230803005500 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20230801004000 +0100" stop="20230801025000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20230801025000 +0100" stop="20230801034000 +0100" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20230801034000 +0100" stop="20230801043000 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230801043000 +0100" stop="20230801060000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20230801060000 +0100" stop="20230801081000 +0100" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
+  </programme>
+  <programme start="20230801081000 +0100" stop="20230801100500 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
+  </programme>
+  <programme start="20230801100500 +0100" stop="20230801130000 +0100" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
+  </programme>
+  <programme start="20230801130000 +0100" stop="20230801144500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230801144500 +0100" stop="20230801160500 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+  </programme>
+  <programme start="20230801160500 +0100" stop="20230801182000 +0100" channel="SIC">
+    <title lang="pt">Júlia (Férias)</title>
+  </programme>
+  <programme start="20230801182000 +0100" stop="20230801192500 +0100" channel="SIC">
+    <title lang="pt">Flor Do Caribe</title>
+  </programme>
+  <programme start="20230801192500 +0100" stop="20230801195700 +0100" channel="SIC">
+    <title lang="pt">Cheias De Charme</title>
+  </programme>
+  <programme start="20230801195700 +0100" stop="20230801221000 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20230801221000 +0100" stop="20230801230000 +0100" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
+  </programme>
+  <programme start="20230801230000 +0100" stop="20230802001000 +0100" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
+  </programme>
+  <programme start="20230802001000 +0100" stop="20230802011000 +0100" channel="SIC">
+    <title lang="pt">Terra Brava</title>
+  </programme>
+  <programme start="20230802011000 +0100" stop="20230802030000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20230802030000 +0100" stop="20230802034000 +0100" channel="SIC">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+  </programme>
+  <programme start="20230802034000 +0100" stop="20230802044500 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20230802044500 +0100" stop="20230802060000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
+  </programme>
+  <programme start="20230802060000 +0100" stop="20230802083000 +0100" channel="SIC">
+    <title lang="pt">Manhã SIC Notícias</title>
+  </programme>
+  <programme start="20230802083000 +0100" stop="20230802130000 +0100" channel="SIC">
+    <title lang="pt">Jornadas Mundiais Da Juventude 2023</title>
+  </programme>
+  <programme start="20230802130000 +0100" stop="20230802144500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230802144500 +0100" stop="20230802160000 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
+  </programme>
+  <programme start="20230802160000 +0100" stop="20230802180000 +0100" channel="SIC">
+    <title lang="pt">Júlia (Férias)</title>
+  </programme>
+  <programme start="20230802180000 +0100" stop="20230802190000 +0100" channel="SIC">
+    <title lang="pt">Flor Do Caribe</title>
+  </programme>
+  <programme start="20230802190000 +0100" stop="20230802200000 +0100" channel="SIC">
+    <title lang="pt">Cheias De Charme</title>
+  </programme>
+  <programme start="20230802200000 +0100" stop="20230802214500 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20230802214500 +0100" stop="20230802224500 +0100" channel="SIC">
+    <title lang="pt">Sangue Oculto</title>
+  </programme>
+  <programme start="20230802224500 +0100" stop="20230802234500 +0100" channel="SIC">
+    <title lang="pt">Flor Sem Tempo</title>
+  </programme>
+  <programme start="20230802234500 +0100" stop="20230803003000 +0100" channel="SIC">
+    <title lang="pt">Lúcia, A Guardiã Do Segredo</title>
+  </programme>
+  <programme start="20230801000000 +0100" stop="20230801013000 +0100" channel="TVI">
+    <title lang="pt">TVI Extra</title>
+  </programme>
+  <programme start="20230801013000 +0100" stop="20230801021200 +0100" channel="TVI">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230801021200 +0100" stop="20230801032500 +0100" channel="TVI">
+    <title lang="pt">Doida Por Ti</title>
+  </programme>
+  <programme start="20230801032500 +0100" stop="20230801034500 +0100" channel="TVI">
+    <title lang="pt">Queridas Feras</title>
+  </programme>
+  <programme start="20230801034500 +0100" stop="20230801053000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20230801053000 +0100" stop="20230801055000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20230801055000 +0100" stop="20230801061500 +0100" channel="TVI">
+    <title lang="pt">O Rei Juliano</title>
+  </programme>
+  <programme start="20230801061500 +0100" stop="20230801065900 +0100" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20230801065900 +0100" stop="20230801100500 +0100" channel="TVI">
+    <title lang="pt">Esta Manhã</title>
+  </programme>
+  <programme start="20230801100500 +0100" stop="20230801125800 +0100" channel="TVI">
+    <title lang="pt">Dois às 10</title>
+  </programme>
+  <programme start="20230801125800 +0100" stop="20230801145500 +0100" channel="TVI">
+    <title lang="pt">TVI Jornal</title>
+  </programme>
+  <programme start="20230801145500 +0100" stop="20230801160500 +0100" channel="TVI">
+    <title lang="pt">A Herdeira</title>
+  </programme>
+  <programme start="20230801160500 +0100" stop="20230801190500 +0100" channel="TVI">
+    <title lang="pt">Goucha</title>
+  </programme>
+  <programme start="20230801190500 +0100" stop="20230801195700 +0100" channel="TVI">
+    <title lang="pt">Vai Ou Racha</title>
+  </programme>
+  <programme start="20230801195700 +0100" stop="20230801215500 +0100" channel="TVI">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230801215500 +0100" stop="20230801223000 +0100" channel="TVI">
+    <title lang="pt">Festa É Festa</title>
+  </programme>
+  <programme start="20230801223000 +0100" stop="20230801232500 +0100" channel="TVI">
+    <title lang="pt">Queridos Papás</title>
+  </programme>
+  <programme start="20230801232500 +0100" stop="20230802002000 +0100" channel="TVI">
+    <title lang="pt">Para Sempre</title>
+  </programme>
+  <programme start="20230802002000 +0100" stop="20230802012500 +0100" channel="TVI">
+    <title lang="pt">TVI Extra</title>
+  </programme>
+  <programme start="20230802012500 +0100" stop="20230802022000 +0100" channel="TVI">
+    <title lang="pt">Autores</title>
+  </programme>
+  <programme start="20230802022000 +0100" stop="20230802030500 +0100" channel="TVI">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230802030500 +0100" stop="20230802032000 +0100" channel="TVI">
+    <title lang="pt">Doida Por Ti</title>
+  </programme>
+  <programme start="20230802032000 +0100" stop="20230802034500 +0100" channel="TVI">
+    <title lang="pt">Queridas Feras</title>
+  </programme>
+  <programme start="20230802034500 +0100" stop="20230802053000 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+  </programme>
+  <programme start="20230802053000 +0100" stop="20230802055000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+  </programme>
+  <programme start="20230802055000 +0100" stop="20230802061500 +0100" channel="TVI">
+    <title lang="pt">O Rei Juliano</title>
+  </programme>
+  <programme start="20230802061500 +0100" stop="20230802065900 +0100" channel="TVI">
+    <title lang="pt">Diário Da Manhã</title>
+  </programme>
+  <programme start="20230802065900 +0100" stop="20230802125800 +0100" channel="TVI">
+    <title lang="pt">JMJ - Chegada do Papa</title>
+  </programme>
+  <programme start="20230802125800 +0100" stop="20230802145100 +0100" channel="TVI">
+    <title lang="pt">TVI Jornal</title>
+  </programme>
+  <programme start="20230802145100 +0100" stop="20230802160500 +0100" channel="TVI">
+    <title lang="pt">A Herdeira</title>
+  </programme>
+  <programme start="20230802160500 +0100" stop="20230802190500 +0100" channel="TVI">
+    <title lang="pt">Goucha</title>
+  </programme>
+  <programme start="20230802190500 +0100" stop="20230802195700 +0100" channel="TVI">
+    <title lang="pt">Vai Ou Racha</title>
+  </programme>
+  <programme start="20230802195700 +0100" stop="20230802215500 +0100" channel="TVI">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20230802215500 +0100" stop="20230802223000 +0100" channel="TVI">
+    <title lang="pt">Festa É Festa</title>
+  </programme>
+  <programme start="20230802223000 +0100" stop="20230802232500 +0100" channel="TVI">
+    <title lang="pt">Queridos Papás</title>
+  </programme>
+  <programme start="20230802232500 +0100" stop="20230803000000 +0100" channel="TVI">
+    <title lang="pt">Para Sempre</title>
+  </programme>
+  <programme start="20230801013000 +0100" stop="20230801032500 +0100" channel="TVCine TOP">
+    <title lang="pt">Marte Um</title>
+  </programme>
+  <programme start="20230801032500 +0100" stop="20230801051000 +0100" channel="TVCine TOP">
+    <title lang="pt">Um Lugar Secreto</title>
+  </programme>
+  <programme start="20230801051000 +0100" stop="20230801065500 +0100" channel="TVCine TOP">
+    <title lang="pt">Cá Por Casa Tudo Bem</title>
+  </programme>
+  <programme start="20230801065500 +0100" stop="20230801091500 +0100" channel="TVCine TOP">
+    <title lang="pt">Ao Ritmo De Washington Heights</title>
+  </programme>
+  <programme start="20230801091500 +0100" stop="20230801111500 +0100" channel="TVCine TOP">
+    <title lang="pt">Cyrano</title>
+  </programme>
+  <programme start="20230801111500 +0100" stop="20230801125000 +0100" channel="TVCine TOP">
+    <title lang="pt">Que Mal Fizemos Todos a Deus?</title>
+  </programme>
+  <programme start="20230801125000 +0100" stop="20230801143500 +0100" channel="TVCine TOP">
+    <title lang="pt">Uma Doce Revolução</title>
+  </programme>
+  <programme start="20230801143500 +0100" stop="20230801161500 +0100" channel="TVCine TOP">
+    <title lang="pt">Mindcage</title>
+  </programme>
+  <programme start="20230801161500 +0100" stop="20230801180000 +0100" channel="TVCine TOP">
+    <title lang="pt">Índia Agridoce</title>
+  </programme>
+  <programme start="20230801180000 +0100" stop="20230801194000 +0100" channel="TVCine TOP">
+    <title lang="pt">A Comissão Dos Deuses</title>
+  </programme>
+  <programme start="20230801194000 +0100" stop="20230801213000 +0100" channel="TVCine TOP">
+    <title lang="pt">Três Mil Anos de Desejo</title>
+  </programme>
+  <programme start="20230801213000 +0100" stop="20230801225500 +0100" channel="TVCine TOP">
+    <title lang="pt">A Hora Do Desespero</title>
+  </programme>
+  <programme start="20230801225500 +0100" stop="20230802010000 +0100" channel="TVCine TOP">
+    <title lang="pt">O Bando De Ned Kelly</title>
+  </programme>
+  <programme start="20230802010000 +0100" stop="20230802025500 +0100" channel="TVCine TOP">
+    <title lang="pt">Marte Um</title>
+  </programme>
+  <programme start="20230802025500 +0100" stop="20230802050500 +0100" channel="TVCine TOP">
+    <title lang="pt">Homem-Aranha: Regresso A Casa</title>
+  </programme>
+  <programme start="20230802050500 +0100" stop="20230802055000 +0100" channel="TVCine TOP">
+    <title lang="pt">The Equalizer</title>
+  </programme>
+  <programme start="20230802055000 +0100" stop="20230802074000 +0100" channel="TVCine TOP">
+    <title lang="pt">Uma História De Xadrez</title>
+  </programme>
+  <programme start="20230802074000 +0100" stop="20230802090000 +0100" channel="TVCine TOP">
+    <title lang="pt">Missão: Galáxia</title>
+  </programme>
+  <programme start="20230802090000 +0100" stop="20230802103500 +0100" channel="TVCine TOP">
+    <title lang="pt">Meu Filho</title>
+  </programme>
+  <programme start="20230802103500 +0100" stop="20230802125000 +0100" channel="TVCine TOP">
+    <title lang="pt">Tudo Em Todo O Lado Ao Mesmo Tempo</title>
+  </programme>
+  <programme start="20230802125000 +0100" stop="20230802141500 +0100" channel="TVCine TOP">
+    <title lang="pt">Alma de Assassino</title>
+  </programme>
+  <programme start="20230802141500 +0100" stop="20230802155000 +0100" channel="TVCine TOP">
+    <title lang="pt">Os Últimos Sobreviventes</title>
+  </programme>
+  <programme start="20230802155000 +0100" stop="20230802174000 +0100" channel="TVCine TOP">
+    <title lang="pt">Ida Red</title>
+  </programme>
+  <programme start="20230802174000 +0100" stop="20230802195000 +0100" channel="TVCine TOP">
+    <title lang="pt">O Homem Que Matou Don Quixote</title>
+  </programme>
+  <programme start="20230802195000 +0100" stop="20230802213000 +0100" channel="TVCine TOP">
+    <title lang="pt">King - Regresso A Casa</title>
+  </programme>
+  <programme start="20230802213000 +0100" stop="20230802230500 +0100" channel="TVCine TOP">
+    <title lang="pt">Sentido Único</title>
+  </programme>
+  <programme start="20230802230500 +0100" stop="20230803003500 +0100" channel="TVCine TOP">
+    <title lang="pt">Revolta</title>
+  </programme>
+  <programme start="20230801015500 +0100" stop="20230801032000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Direito à Ofensa: A Revolução Negra da Comédia, Parte 1</title>
+  </programme>
+  <programme start="20230801032000 +0100" stop="20230801044500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Direito à Ofensa: A Revolução Negra da Comédia, Parte 2</title>
+  </programme>
+  <programme start="20230801044500 +0100" stop="20230801061000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Tutankhamun - A Última Exposição</title>
+  </programme>
+  <programme start="20230801061000 +0100" stop="20230801075500 +0100" channel="TVCINE Edition">
+    <title lang="pt">O Querido Lilás</title>
+  </programme>
+  <programme start="20230801075500 +0100" stop="20230801092500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Brasil 2002: A História Real</title>
+  </programme>
+  <programme start="20230801092500 +0100" stop="20230801110000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Um Crime De Luxo</title>
+  </programme>
+  <programme start="20230801110000 +0100" stop="20230801122000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Se o Mar Deixar</title>
+  </programme>
+  <programme start="20230801122000 +0100" stop="20230801141500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Camões</title>
+  </programme>
+  <programme start="20230801141500 +0100" stop="20230801153000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Daniel e Daniela</title>
+  </programme>
+  <programme start="20230801153000 +0100" stop="20230801171500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Para Mim Tu És Ceausescu</title>
+  </programme>
+  <programme start="20230801171500 +0100" stop="20230801190500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Voa</title>
+  </programme>
+  <programme start="20230801190500 +0100" stop="20230801204000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Nós Duas</title>
+  </programme>
+  <programme start="20230801204000 +0100" stop="20230801220000 +0100" channel="TVCINE Edition">
+    <title lang="pt">When We Speak - O Impacto da Nossa Voz</title>
+  </programme>
+  <programme start="20230801220000 +0100" stop="20230802001500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Decisão De Partir</title>
+  </programme>
+  <programme start="20230802001500 +0100" stop="20230802020500 +0100" channel="TVCINE Edition">
+    <title lang="pt">São Bernardo</title>
+  </programme>
+  <programme start="20230802020500 +0100" stop="20230802035500 +0100" channel="TVCINE Edition">
+    <title lang="pt">O Grito</title>
+  </programme>
+  <programme start="20230802035500 +0100" stop="20230802062500 +0100" channel="TVCINE Edition">
+    <title lang="pt">A Idade da Terra</title>
+  </programme>
+  <programme start="20230802062500 +0100" stop="20230802081500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Terra em Transe</title>
+  </programme>
+  <programme start="20230802081500 +0100" stop="20230802101000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Camões</title>
+  </programme>
+  <programme start="20230802101000 +0100" stop="20230802115500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Para Mim Tu És Ceausescu</title>
+  </programme>
+  <programme start="20230802115500 +0100" stop="20230802135000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Cantiga da Rua</title>
+  </programme>
+  <programme start="20230802135000 +0100" stop="20230802151000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Do Bairro</title>
+  </programme>
+  <programme start="20230802151000 +0100" stop="20230802164000 +0100" channel="TVCINE Edition">
+    <title lang="pt">A Cordilheira Dos Sonhos</title>
+  </programme>
+  <programme start="20230802164000 +0100" stop="20230802182000 +0100" channel="TVCINE Edition">
+    <title lang="pt">O Leão de Sete Cabeças</title>
+  </programme>
+  <programme start="20230802182000 +0100" stop="20230802201000 +0100" channel="TVCINE Edition">
+    <title lang="pt">WeWork: A Criação e a Destruição de Um Unicórnio de 47 Mil Milhões de Dólares</title>
+  </programme>
+  <programme start="20230802201000 +0100" stop="20230802220000 +0100" channel="TVCINE Edition">
+    <title lang="pt">Barreira do Medo</title>
+  </programme>
+  <programme start="20230802220000 +0100" stop="20230803000500 +0100" channel="TVCINE Edition">
+    <title lang="pt">Broker - Intermediários</title>
+  </programme>
+  <programme start="20230801003500 +0100" stop="20230801023000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Eu, Tonya</title>
+  </programme>
+  <programme start="20230801023000 +0100" stop="20230801031500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20230801031500 +0100" stop="20230801040000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230801040000 +0100" stop="20230801044500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20230801044500 +0100" stop="20230801054500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">The Serpent Queen</title>
+  </programme>
+  <programme start="20230801054500 +0100" stop="20230801064500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Domina</title>
+  </programme>
+  <programme start="20230801064500 +0100" stop="20230801084000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">A Odisseia dos Tontos</title>
+  </programme>
+  <programme start="20230801084000 +0100" stop="20230801100500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Conni E O Gato</title>
+  </programme>
+  <programme start="20230801100500 +0100" stop="20230801120000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago</title>
+  </programme>
+  <programme start="20230801120000 +0100" stop="20230801134000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Undrafted - O Jogo de Uma Vida</title>
+  </programme>
+  <programme start="20230801134000 +0100" stop="20230801153500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Footloose - A Música Está Do Teu Lado</title>
+  </programme>
+  <programme start="20230801153500 +0100" stop="20230801174000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">O Caso Spotlight</title>
+  </programme>
+  <programme start="20230801174000 +0100" stop="20230801182500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20230801182500 +0100" stop="20230801191000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230801191000 +0100" stop="20230801195500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20230801195500 +0100" stop="20230801214000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Forças da Natureza</title>
+  </programme>
+  <programme start="20230801214000 +0100" stop="20230801221000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Run The World</title>
+  </programme>
+  <programme start="20230801221000 +0100" stop="20230801224000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Run The World</title>
+  </programme>
+  <programme start="20230801224000 +0100" stop="20230802001000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Doce Como Uma Tarte</title>
+  </programme>
+  <programme start="20230802001000 +0100" stop="20230802014000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">O Meu Casamento Preferido</title>
+  </programme>
+  <programme start="20230802014000 +0100" stop="20230802035000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Erin Brockovich</title>
+  </programme>
+  <programme start="20230802035000 +0100" stop="20230802043500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20230802043500 +0100" stop="20230802051500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230802051500 +0100" stop="20230802060000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20230802060000 +0100" stop="20230802063000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Run The World</title>
+  </programme>
+  <programme start="20230802063000 +0100" stop="20230802070000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Run The World</title>
+  </programme>
+  <programme start="20230802070000 +0100" stop="20230802084000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Champagne!</title>
+  </programme>
+  <programme start="20230802084000 +0100" stop="20230802101000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Uma Paixão de Natal</title>
+  </programme>
+  <programme start="20230802101000 +0100" stop="20230802115000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Semana Sim, Semana Não</title>
+  </programme>
+  <programme start="20230802115000 +0100" stop="20230802132500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Uma Livraria em Paris</title>
+  </programme>
+  <programme start="20230802132500 +0100" stop="20230802150500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">O Rei Do Mundo Inteiro</title>
+  </programme>
+  <programme start="20230802150500 +0100" stop="20230802165500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Creation Stories - O Som De Uma Geração</title>
+  </programme>
+  <programme start="20230802165500 +0100" stop="20230802174000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20230802174000 +0100" stop="20230802182500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20230802182500 +0100" stop="20230802191000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Chicago P.D.</title>
+  </programme>
+  <programme start="20230802191000 +0100" stop="20230802211000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Baywatch: Marés Vivas</title>
+  </programme>
+  <programme start="20230802211000 +0100" stop="20230802221000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Ligações Perigosas</title>
+  </programme>
+  <programme start="20230802221000 +0100" stop="20230802231000 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Ligações Perigosas</title>
+  </programme>
+  <programme start="20230802231000 +0100" stop="20230803005500 +0100" channel="TVCINE Emotion">
+    <title lang="pt">Uma Guerra Pessoal</title>
+  </programme>
+  <programme start="20230801010500 +0100" stop="20230801033500 +0100" channel="TVCine Action">
+    <title lang="pt">Pulp Fiction</title>
+  </programme>
+  <programme start="20230801033500 +0100" stop="20230801042000 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230801042000 +0100" stop="20230801050500 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230801050500 +0100" stop="20230801055000 +0100" channel="TVCine Action">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+  </programme>
+  <programme start="20230801055000 +0100" stop="20230801063500 +0100" channel="TVCine Action">
+    <title lang="pt">Walker</title>
+  </programme>
+  <programme start="20230801063500 +0100" stop="20230801072000 +0100" channel="TVCine Action">
+    <title lang="pt">Walker</title>
+  </programme>
+  <programme start="20230801072000 +0100" stop="20230801093500 +0100" channel="TVCine Action">
+    <title lang="pt">Missão Impossível: Operação Fantasma</title>
+  </programme>
+  <programme start="20230801093500 +0100" stop="20230801114000 +0100" channel="TVCine Action">
+    <title lang="pt">The Equalizer 2 - A Vingança</title>
+  </programme>
+  <programme start="20230801114000 +0100" stop="20230801132500 +0100" channel="TVCine Action">
+    <title lang="pt">Salto De Fé: William Friedkin Sobre O Exorcista</title>
+  </programme>
+  <programme start="20230801132500 +0100" stop="20230801152500 +0100" channel="TVCine Action">
+    <title lang="pt">Jumanji: Bem-Vindos à Selva</title>
+  </programme>
+  <programme start="20230801152500 +0100" stop="20230801171000 +0100" channel="TVCine Action">
+    <title lang="pt">Fortuna</title>
+  </programme>
+  <programme start="20230801171000 +0100" stop="20230801175500 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230801175500 +0100" stop="20230801184000 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230801184000 +0100" stop="20230801192500 +0100" channel="TVCine Action">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+  </programme>
+  <programme start="20230801192500 +0100" stop="20230801212000 +0100" channel="TVCine Action">
+    <title lang="pt">Passageiros</title>
+  </programme>
+  <programme start="20230801212000 +0100" stop="20230801221000 +0100" channel="TVCine Action">
+    <title lang="pt">Joe Pickett</title>
+  </programme>
+  <programme start="20230801221000 +0100" stop="20230801230000 +0100" channel="TVCine Action">
+    <title lang="pt">Joe Pickett</title>
+  </programme>
+  <programme start="20230801230000 +0100" stop="20230802012000 +0100" channel="TVCine Action">
+    <title lang="pt">A Acusação</title>
+  </programme>
+  <programme start="20230802012000 +0100" stop="20230802025500 +0100" channel="TVCine Action">
+    <title lang="pt">Navalny: O Homem Que Putin Não Conseguiu Matar</title>
+  </programme>
+  <programme start="20230802025500 +0100" stop="20230802034500 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230802034500 +0100" stop="20230802043000 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230802043000 +0100" stop="20230802051500 +0100" channel="TVCine Action">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+  </programme>
+  <programme start="20230802051500 +0100" stop="20230802060500 +0100" channel="TVCine Action">
+    <title lang="pt">Joe Pickett</title>
+  </programme>
+  <programme start="20230802060500 +0100" stop="20230802070000 +0100" channel="TVCine Action">
+    <title lang="pt">Joe Pickett</title>
+  </programme>
+  <programme start="20230802070000 +0100" stop="20230802075000 +0100" channel="TVCine Action">
+    <title lang="pt">Joe Pickett</title>
+  </programme>
+  <programme start="20230802075000 +0100" stop="20230802100500 +0100" channel="TVCine Action">
+    <title lang="pt">O Último Castelo</title>
+  </programme>
+  <programme start="20230802100500 +0100" stop="20230802115000 +0100" channel="TVCine Action">
+    <title lang="pt">Lutador - A Lei das Ruas</title>
+  </programme>
+  <programme start="20230802115000 +0100" stop="20230802133000 +0100" channel="TVCine Action">
+    <title lang="pt">Bel Canto</title>
+  </programme>
+  <programme start="20230802133000 +0100" stop="20230802152500 +0100" channel="TVCine Action">
+    <title lang="pt">Kursk</title>
+  </programme>
+  <programme start="20230802152500 +0100" stop="20230802173000 +0100" channel="TVCine Action">
+    <title lang="pt">Star Trek</title>
+  </programme>
+  <programme start="20230802173000 +0100" stop="20230802181000 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230802181000 +0100" stop="20230802185000 +0100" channel="TVCine Action">
+    <title lang="pt">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20230802185000 +0100" stop="20230802193500 +0100" channel="TVCine Action">
+    <title lang="pt">Law &amp; Order: Organized Crime</title>
+  </programme>
+  <programme start="20230802193500 +0100" stop="20230802212500 +0100" channel="TVCine Action">
+    <title lang="pt">Corta!</title>
+  </programme>
+  <programme start="20230802212500 +0100" stop="20230802221000 +0100" channel="TVCine Action">
+    <title lang="pt">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20230802221000 +0100" stop="20230802225500 +0100" channel="TVCine Action">
+    <title lang="pt">Superman &amp; Lois</title>
+  </programme>
+  <programme start="20230802225500 +0100" stop="20230803002500 +0100" channel="TVCine Action">
+    <title lang="pt">Não Vás</title>
   </programme>
 </tv>
